@@ -2,71 +2,59 @@
 
 
 ### **Course Outline:**
-1. **Limits and Continuity**
-   1. Introduction to Limits
-   1. Rates of Change and Limits
-   1. One-Sided Limits, Infinite Limits
-   1. Continuity, Continuity at a Point, Continuity on an interval
-1. **Differentiation**
-   1. Definition and Examples
-   1. Relation Between Differentiability and Continuity
-   1. Derivative as slope, as rate of change (graphical representation).
-   1. The Chain Rule
-   1. Applications of Ordinary Derivatives
-1. **Integration**
-   1. Indefinite Integrals
-   1. Different Techniques for Integration
-   1. Definite Integrals
-   1. Riemann Sum, Fundamental Theorem of Calculus
-   1. Area Under the Graph of a Nonnegative Function
-   1. Improper Integrals
-1. **Transcendental Functions**
-   1. Inverse functions
-   1. Logarithmic and Exponential Functions
-   1. Inverse Trigonometric Functions
-   1. Hyperbolic Functions and Inverse Hyperbolic Functions
-   1. More Techniques of Integration
-1. **Analytical Geometry**
-   1. Three Dimensional Geometry
-   1. Vectors in Spaces
-   1. Vector Calculus
-   1. Directional Derivatives
-   1. Divergence, Curl of a Vector Field
-   1. Multivariable Functions
-   1. Partial Derivatives
-1. **Analytical Geometry**
-   1. Conic Sections
-   1. Parameterizations of Plane Curves
-   1. Vectors in Plane, Vectors in space
-   1. Dot Products, Cross Products
-   1. Lines and Planes in Space
-   1. Spherical, Polar and Cylindrical Coordinates.
-   1. Vector-Valued Functions and Space Curves
-   1. Arc-Length and Tangent Vector
-   1. Curvature, Torsion and TNB Frame
-   1. Fubini’s Theorem for Calculating Double Integrals
-   1. Areas Moments and Centers of Mass
-   1. Triple Integrals, Volume of a Region in Space
-### **Suggested Teaching Methodology:**
-Lecturing
+1. **Set and Functions:** 
+   1. Define rational, irrational and real numbers;
+   2. Rounding off a numerical value to specified value to specified number of decimal places or significant figures;
+   3. Solving quadratic, and rational inequalities in involving modulus with graphical representation; 
+   4. Definition of set, set operations, Venn diagrams, DeMorgan’s laws, Cartesian product, Relation, Function and their types (Absolute value, greatest integer and combining functions). 
+   5. Graph of some well-known functions. 
+   6. Limit of functions and continuous and discontinuous functions with graphical representation.
+2. **Differential Calculus:** 
+   1. Differentiation and Successive differentiation and its application: Leibnitz theorem. 
+   2. Taylor and Maclaurin theorems with remainders in Cauchy and Lagrange form, power series.
+   3. Taylor and Maclaurin series, L Hopitals rule, extreme values of a function of one variable using first and second derivative test. 
+   4. Asymptotes of a function. 
+   5. Curvature and radius of curvature of a curve.
+   6. Partial differentiation.
+   7. Exact differential and its application in computing errors. 
+   8. Extreme values of a function of two variables with and without constraints.
+   9.  Solution of non-linear equation, using Newton Raphson method.
+3. **Integral Calculus** 
+   1. Indefinite integrals and their computational techniques. 
+   2. Reduction formulae.
+   3. Definite integrals and their convergence. 
+   4. Beta and Gamma functions and their identities. 
+   5. Applications of integration. 
+   6. Centre of pressure and depth of centre of pressure.
+4. **Sequence & Series:** 
+   1. Sequence. 
+   2. Infinite Series. 
+   3. Application of convergence tests such as comparison, Root, Ratio, Raabe's and Gauss tests on the behavior of series.
+5. **Complex Number:**
+   1. Argand diagram.
+   2. De Moivre formula.
+   3. Root of polynomial equations, curve and regions in the complex plane.
+   4. Standard functions and their inverses (exponential, circular and Hyperbolic functions).
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
 
-Sessional (20%)
+## **Suggested Teaching Methodology:**
 
-Quiz (12%)
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Assignment (8%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Midterm (30%)
-
-Final Term (50%)
-###### **Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 1. Advanced Engineering Mathematics, by Erwin Kreyszig, 8th Edition
-1. Calculus And Analytical Geometry, Schaum’s Series
-
+2. Calculus & Analytical Geometry, Howard Anton. Fifth Edition.
+3. Calculus, Thomas & Finney, 1994
+4. Calculus And Analytical Geometry, Schaum’s Series
 
 ___
 \newpage

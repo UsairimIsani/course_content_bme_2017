@@ -1,8 +1,6 @@
 # **(BM-451) - Bio-Signal Processing**
-
-
-
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Introduction to Digital Signal Processing**
    1. Analog-to-Digital& Digital-to-Analog Conversion
    1. Digital Signals, Systems, and Difference Equations
@@ -29,7 +27,7 @@
    1. PPG wave analysis
    1. Sound wave analysis
    1. EMG Processing
-###### **List of Practicals:**
+## **List of Practicals:**
 1. Impulse and Step Responses
 1. Convolution and Correlation
 1. Z-transform, Pole-Zero Plot, Stability
@@ -46,26 +44,24 @@
 1. Sound Processing. Detecting cardiac condition from digital stethoscope
 1. Open ended lab 1
 1. Open ended lab 2
-### **Suggested Teaching Methodology:**
-Lecturing
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Sessional (20%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Quiz (12%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. Biomedical Signal Analysis, 2nd Ed, Ranagaraj M. Rangayyan, ISBN: 978- 0-470-91139-6, Willey- IEEE Press.
 1. Biomedical Signal Analysis: Contemporary methods and Applications, Fabian J, Theis and Anke Meyer, The MIT Press Cambridge, Massachusetts.

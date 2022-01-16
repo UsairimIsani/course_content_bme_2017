@@ -62,23 +62,20 @@
    1. Individual & Group Presentation
    1. Teaching Presentation as a Skill
    1. Project Work on Power Point Presentations
-### **Suggested Teaching Methodology:**
-Lecturing Presentations
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Sessional (20%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-###### **Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 1. Exploring The World Of English, Sadat Ali Shah
 1. High School English Grammar & Composition P. C. Wren & H. Martin
 1. Practical English Grammar by A. J. Thomson and A. V. Martinet. Exercises

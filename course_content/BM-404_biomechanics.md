@@ -1,7 +1,6 @@
 # **(BM-404) - Biomechanics**
-
-
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Introduction**
    1. Definition and perspective
    1. Review of statics
@@ -48,7 +47,7 @@
    1. Temporal-spatial parameters
    1. Hip, knee and ankle joint kinematics and kinetics
    1. Interpretation of gait data
-###### **List of Practicals:**
+## **List of Practicals:**
 1. To determine the coordinates of the centre of gravity (COG) of a body using segmentation method.
 1. To determine the centre of Gravity Measurement using Reaction Board
 1. Volumetric analysis of irregular shaped body segments
@@ -65,26 +64,23 @@
 1. Study of blood flow using blood vessel models
 1. To design the human limbs on Solid works.
 1. To analyse the human limbs on ANSYS.
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. Susan J. Hall, Basic Bio-Mechanics, 6th Ed, 2011.
 1. Margareta Nordin, Victor H. Frankel, Basic Biomechanics of the Musculoskeletal System

@@ -49,23 +49,23 @@ Multiscale Models
 1. Skin Absorption Model using Ficks’s Law
 1. Open ended lab 1
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Sessional (20%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Quiz (12%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. Modeling and simulation in biomedical engineering, Willem Van Meurs.
 1. Physiological Modeling: An Introductory Course for Biomedical Engineers , John Enderle

@@ -75,23 +75,19 @@
    1. Different forms of equation of a line
    1. Angle between two lines, distance of a point from a line
 
-###### **Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
-
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-###### **Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 1. FSC Maths Part I /II
 
 ___

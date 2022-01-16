@@ -1,57 +1,58 @@
 # **(TC-201) - Digital Logic Design**
 
-### **Course Outline:**
-1. **Number Systems**
-   1. Introduction to Digital Electronics, Why Binary Numbers?
-   1. Binary to Decimal Conversion, Decimal to Binary Conversion,
-   1. Hexadecimal Numbers, Hexadecimal to Binary Conversion,
-   1. Decimal to Binary Conversion,
-   1. BCD Numbers, The ASCII Code
-1. **Logic Gates**
-   1. Boolean operations such as NOT, OR, AND, XOR, NOR, NAND, XNOR
-   1. Boolean algebra, DeMorgan’s theorems, Two’s complement of a binary number
-1. **Simplification of Boolean Function**
-   1. The Map Method such as Two and Three Variable Maps, Four Variable Map
-   1. Product of Sums simplification
-   1. NAND and NOR implementation
-   1. Don’t Care Conditions
-   1. The Tabulation Method
-1. **Combinational Logic**
-   1. Design Procedure
-   1. Adders, Subtractors
-   1. Code Conversion
-   1. Analysis Procedure
-1. **MSI and PLD Components**
-   1. Decimal Adders
-   1. Decoders and Encoders
-   1. Multiplexers
-   1. Read Only Memory
-   1. Programmable Logic Array (PLA)
-   1. Programmable Array Logic (PAL)
-1. **Synchronous Sequential Logic**
-   1. Flip-Flops, latches
-   1. Triggering of Flip-Flops
-   1. Analysis of Clocked Sequential Circuits
-   1. State Reduction and Assignment
-   1. Design Procedure
-1. **Registers, Counters and the Memory Unit**
-   1. Registers
-   1. Shift Registers
-   1. Ripple Counters
-   1. Synchronous Counters
-   1. Timing Sequences
-   1. Random Access Memory (RAM)
-   1. Memory Decoding
-1. **Displays**
-   1. Seven-segment Displays,
-   1. Common Anode Display,
-   1. Common Cathode Display,
-   1. Seven-Segment Display Driver,
-   1. Dot Matrix Displays,
-   1. LED and LCD displays, Drivers for displays
-1. **Introduction to Microprocessors**
+## **Course Outline:**
 
-**List of Practicals:**
+### **Theory:**
+
+
+1. **Computer Operations:** 
+   1. Evaluation of the computer. 
+   2. Basic organization of digital computer.
+   3. Instruction formats.
+   4. Different types of computers, special purpose and general purpose computers.
+2. **Number Systems:** 
+   1. Conversion between bases. 
+   2. Arithmetic with bases other than ten, negative numbers, binary coded decimal numbers, octal, and hexadecimal number systems.
+3. **Truth Function:** 
+   1. Binary connectives.
+   2. Evaluation of truth functions.
+   3. Many statement compounds.
+   4. Physical realizations.
+   5. Sufficient sets of connectives. 
+   6. Digital computer examples.
+4. **Boolean Algebra:**
+   1. Truth functional calculus as Boolean algebra. 
+   2. Duality, fundamental theorems of Boolean algebra.
+   3. Examples of Boolean simplifications.
+   4. Remarks on Switching functions.
+5. **Switching Devices:**
+   1. Switches and relays logic circuits.
+   2. Speed and delays in logic circuits.
+   3. integrated logic circuits.
+6. **Minimization of Boolean Functions:** 
+   1. Standard forms of Boolean functions.
+   2. Minterm and maxterm.
+   3. Designation of Boolean functions.
+   4. Karnaugh map representation of Boolean functions.
+   5. Simplification of functions on Karnaugh maps.
+   6. Map minimization of product of sums expressions.
+   7. Incompletely specified functions.
+7. **Tabular Minimization:**
+   1. Cubical representation of Boolean functions.
+   2. Determination of prime implicants.
+   3. Selection of an optimum set of prime implicants.
+   4. Design of NAND and NOR Networks and properties of combinational network.
+   5. Introduction to design of NAND and NOR Networks.
+   6. Switching expressions for NAND and NOR Networks.
+   7. Transient response of combination Networks.
+8. **Introduction to sequential Networks:**
+   1. Latches.
+   2. Sequential Networks in fundamental mode.
+   3. Introduction to the Synthesis of Sequential Networks.
+   4. Minimization of the number of states. 
+   5. Clocked Networks.
+9. **Introduction to Verilog HDL and VHDL Lab work:**
+## **List of Practicals:**
 
 1. Digital Logic Gates
 1. Simplification of Boolean Functions
@@ -69,26 +70,23 @@
 1. Parallel Adder
 1. Binary Multiplier
 1. Asynchronous Sequential Circuits
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. M. Morris Mano, Digital Logic & Computer Design
 1. D. J. Comer, Digital Logic and State Machine Design, Oxford University Press.

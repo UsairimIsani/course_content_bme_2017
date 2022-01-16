@@ -29,7 +29,8 @@
    1. Ideal Filters
    1. Approximation of Ideal Filters
    1. Butterworth and Chebyshev Filter Design
-###### **List of Practicals:**
+   
+## **List of Practicals:**
 1. To be familiarize with the MATLAB and SIMULINK.
 1. To plot the sinusoidal, exponential and singularity functions
 1. To perform the time-shift, time-scaling and time-reversal operations on the signals
@@ -46,26 +47,25 @@
 1. Open ended lab 4
 1. Open ended lab 5
 1. Open ended lab 6
-### **Suggested Teaching Methodology:**
-Lecturing
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
 
-Sessional (20%)
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Quiz (12%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Assignment (8%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. Gorden E. Carlson. Signal and Linear System Analysis. John Wiley & Sons, Inc. 2nd Edition. 1992.
 1. Oppenheim, Alan V., and A. S. Willsky. Signals and Systems. Prentice Hall, 1982. ISBN: 9780138097318.

@@ -55,59 +55,29 @@
 1. **Project Management Skills for Entrepreneurial projects**
 1. **Project Presentations**
 
-**Suggested Teaching Methodology:**
 
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Guest lectures Project
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Guest lectures Project
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Quiz (12%)
+## **Recommended Text and Reference Books:**
 
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-###### **Text and Reference Books:**
-1. “Entrepreneurship (5th Edition), Robert D. Hisrich& Michael P. Peters. McGraw-Hill Irwin. Product Design & Development, Karl T Ulrich & Steven
-
-D. Eppinger.
-
+1. “Entrepreneurship (5th Edition), Robert D. Hisrich& Michael P. Peters. McGraw-Hill Irwin. Product Design & Development, Karl T Ulrich & Steven D. Eppinger.
 1. Case studies and others will be placed with the photocopier and soft copies of presentations will be uploaded on LMS.
 1. Technology Ventures (2013 Edition), Richard C. Dorf & Thomas H. Byers.
-
-### **ENTREPRENEURSHIP**
-
-###### **Course Objective:**
-Entrepreneurship is an important component in the process of economic development. The purpose of this course is to analyse the theories of entrepreneurship and to go for case studies of successful entrepreneurs.
-
-###### **Course Contents:**
-**Introduction:** The concept of entrepreneurship, The economist view of entrepreneurship, The sociologist view, Behavioural approach, Entrepreneurship and Management
-
-**The Practice of Entrepreneurship:** The process of entrepreneurship, Entrepreneurial Management, The entrepreneurial business, Entrepreneurship in service institutions, The new venture
-
-**Entrepreneurship and Innovation:** The innovation concepts, Importance of innovation for entrepreneurship, Sources of innovative opportunities, The innovation process, Risks involved in innovation
-
-**Developing Entrepreneur:** Entrepreneurial profile, Trait approach to understanding entrepreneurship, Factors influencing entrepreneurship, The environment, Socio cultural factors, Support systems
-
-**Entrepreneurship Organization:** Team work, Networking organization, Motivation and compensation, Value system
-
-**Entrepreneurship and SMES:** Defining SMEs, Scope of SMEs, Entrepreneurial, managers of SME, Financial and marketing problems of SMEs
-
-**Entrepreneurial Marketing:** Framework for developing entrepreneurial marketing, Devising entrepreneurial marketing plan, Entrepreneurial marketing strategies, Product quality and design
-
-**Entrepreneurship and Economic Development:** Role of entrepreneur in the economic development generation of services, Employment creation and training, Ideas, knowledge and skill development, The Japanese experience
-
-***Case Studies of Successful Entrepreneurs* Text Books:**
-
-1. Paul Burns and Jim Dew Hurst: Small Business and Entrepreneurship
-1. P.N. Singh: Entrepreneurship fo0r Economic Growth
-1. Peter F. Drucker: Innovation and Entrepreneurship Peter F. Drucker
-1. John B. Miner: Entrepreneurial Success
 
 ___
 \newpage

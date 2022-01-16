@@ -1,6 +1,6 @@
-
 # **(BM-208) - Biomedical Electronics**
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Operational Amplifiers**
    1. Analysis of OP-AMP action
    1. OP-AMP specifications
@@ -27,7 +27,7 @@
 1. **Selected Applications of OP-AMPs in Biomedical Engineering**
 1. **Signal Acquisition and Conditioning of ECG using OP-AMPs**
 
-**List of Practicals:**
+## **List of Practicals:**
 
 1. Design and Analyze OP-AMP Based Inverting Amplifier
 1. Design and Analyze OP-AMP Based Non-Inverting Amplifier
@@ -45,26 +45,21 @@
 1. Designing and analyzing frequency response of Active Band Pass Filter
 1. Designing and analyzing frequency response of Active Band Stop Filter/
 1. Project : ECG/EMG/ EOG/PPG Amplifier and filters
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Text and Reference Books:**
 
 1. Electronics Design by Floyd 9th Edition
 1. Operational amplifier and linear integrated circuits by Robert Coughlin

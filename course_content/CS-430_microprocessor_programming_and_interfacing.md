@@ -1,7 +1,6 @@
 # **(CS-430) - Microprocessor Programming and Interfacing**
-
-
 ## **Course Outline:**
+### **Theory:**
 1. **Introduction to Microprocessor and Microcontroller**
    1. Microprocessor and its Architecture
    1. Simplified CPU / Memory Organization
@@ -48,26 +47,23 @@
 1. To program and perform DC motor interfacing and PWM
 1. To program and perform serial communication (RS232)
 1. To program and perform parallel communication (RS232)
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
+- Labs
+- Open-Ended Labs
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Recommended Books:**
+## **Recommended Text and Reference Books:**
 
 1. Barry B. Brey, The Intel Microprocessor, 8th ed. 2009, ISBN-10: 0135026458
 1. Roger	L.	Tokheim,	Schaum's	Outline	of	Theory	and	Problems	of Microprocessor Fundamentals, Graw Hill Co., 1983, ISBN: 9780070649583

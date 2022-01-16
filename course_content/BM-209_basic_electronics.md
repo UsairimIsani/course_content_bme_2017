@@ -1,66 +1,7 @@
 
 # **(BM-209) - Basic Electronics**
-
-### **Course Outline:**
-1. **The RLC Circuits**
-   1. Source Free Series & Parallel RLC Circuits,
-   1. over- damped, under-damped, critically damped RLC Circuits,
-   1. complete response of RLC Circuits, Lossless LC Circuits,
-   1. Power Factor Calculations
-1. **The Sinusoidal Steady Response**
-   1. Nodal, Mesh & loop analysis, Comparison between Nodal and Mesh Analysis
-   1. AC source Transformation, Thevenin’s, Norton’s,
-   1. Reciprocity & Compensation theorems. Maximum Power Transfer Theorem.
-   1. First Order Circuits (RL and RC): Transient Response, Steady State Response, Unit Step Response
-1. **Complex Frequency**
-   1. Introduction to complex frequency damped sinosoidal forcing function, Z (s) & Y (s), frequency response as a function of s, Complex frequency plane, natural response & the S-Plane.
-   1. Voltage ratio synthesizing, Scaling & Bode Diagrams.
-   1. General Two Port Networks: Introduction, admittance parameters, some equivalent networks, impedance parameters, hybrid parameters, transmission parameters.
-###### **List of Practicals:**
-1. To determine the voltage of series circuit
-1. To determine the voltage of parallel circuit.
-1. To determine the current through mesh analysis
-1. To determine the voltage across nodes through nodal analysis of the circuit
-1. To determine the voltage across nodes through nodal analysis of the circuit
-1. To determine the voltage across Resistor in the circuit.
-1. To study the filter circuit and response
-1. To study the response of an RC circuit when applied with a sudden dc voltage source.
-1. To study the response of a Driven RC circuit when applied with a sudden dc voltage source.
-1. To Study the response of Parallel Resonant Circuit
-1. To study the response of Series Resonant Circuit
-1. To study source free RLC circuit and determine its response mathematically and graphically
-1. To determine the transient analysis and plot transient analysis of RL circuit using PSpise
-1. To determine the transient analysis and plot transient analysis of RLC circuit using PSpise.
-1. Determine Natural Response of an RLC circuit.
-1. To study source free RL circuit and determine its response mathematically and graphically
-### **Suggested Teaching Methodology:**
-Lecturing
-
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
-
-Sessional (20%)
-
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text book & Reference Books:**
-
-1. Engineering Circuit Analysis by William Hayt, 7th Edition, 2006. ISBN: 978- 0073263182
-1. Fundamentals of Electric Circuits by Charles K.Alexander, Matthew N. O. Sadiku. 4th Edition, 2008.ISBN 978-0077263195
-
-#### **Basic Electronics**
-
-
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Semiconductor Theory**
    1. Introduction,
    1. Intrinsic and Extrinsic Semiconductors,
@@ -102,17 +43,14 @@ Final Term (50%)
    1. RC phase shift oscillators,
    1. Wein-Bridge oscillators,
    1. Crystal oscillators based on BJT and FET.
-###### **List of Practicals:**
-1	To observe the working of diode with forward and reverse bias.
-
+## **List of Practicals:**
+1.	To observe the working of diode with forward and reverse bias.
 2. Plot the diode characteristic curve.
 2. Calculate the bulk resistance of the diode and observe its effect in the diode approximations.
 2. To observe the working of half wave rectifier.
 2. To observe the working of full wave rectifier
 2. To observe the working of Bridge wave rectifier.
 2. To observe the working of Zener Diode
-` `PAGE 63
-
 2. To analyze the working of Clamper Circuit.
 2. To analyze the wrking of Clipper Circuit.
 2. To determine the output voltage for half wave voltage doubler.
@@ -122,26 +60,22 @@ Final Term (50%)
 2. To use the transistor in switching mode.
 2. Demonstrate the operation and determine the biasing parameter of Base Bias Circuit.
 2. Demonstrate the operation and determine the biasing parameter of Voltage Divider Bias Circuit.
-### **Suggested Teaching Methodology:**
+## **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Sessional (20%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Quiz (12%)
+### **Laboratory (100%)**
 
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text Book:**
+## **Text Book:**
 
 1. Electronic Devices and Circuit Theory By H. Boylestad and L. Nashelsky
 1. Electronic Devices and Circuits By Theodore F. Bogart, Jr.

@@ -1,7 +1,8 @@
 # **(BM-307) - Bioinformatics**
 
 
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **History and evolution of bioinformatics**
    1. Introduction to databases (Database types, Database formats, DNA databases, European Molecular Biology Laboratory (EMBL)
    1. Genomics
@@ -21,33 +22,6 @@
    1. Protein information Resource (PIR) formats
    1. Protein Sequence (databases, SwissProt, UniProt, UniProtKB/TrEMBL)
    1. Structural databases (Protein Databank (PDB), Structural Classification of Proteins (SCOP) database, Class, Architecture, Topology, Homology (CATH) database)
-### **Suggested Teaching Methodology:**
-Lecturing
-
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
-
-Sessional (20%)
-
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-###### **Text and Reference Books:**
-1. Introduction to Bioinformatics, Arthur M. Lesk, 4th Edition, Oxford University Press, 2014, ISBN 0198724675, 9780198724674
-1. Bioinformatics and Functional Genomics, Jonathan Pevsner, 2nd Edition,
-
-Wiley, 2009, ISBN 0470085851, 9780470085851.
-
-#### **DNA Computing**
-
-
-
-### **Course Outline:**
 1. **Introduction to Biomolecules**
    1. Computational Biology : Introduction to Bioinformatics
    1. Protein folding and misfolding
@@ -65,31 +39,24 @@ Wiley, 2009, ISBN 0470085851, 9780470085851.
    1. Statistical mechanics of biomolecules (e.g., canonical ensemble, ergodicity)
    1. Modeling interaction in protein (Bond-length and bond-angle potentials)
    1. Molecular Dynamics Simulations
-1. **Numerical integration of Newton equations of motion**
-   1. Algorithms
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
-
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
-
+### **Practical Exercises (100%)**
+- Open-Ended Labs
+## **Text and Reference Books:**
+1. Introduction to Bioinformatics, Arthur M. Lesk, 4th Edition, Oxford University Press, 2014, ISBN 0198724675, 9780198724674
+1. Bioinformatics and Functional Genomics, Jonathan Pevsner, 2nd Edition, Wiley, 2009, ISBN 0470085851, 9780470085851.
 1. D. Frankel and B. Smit "Understanding Molecular Simulations: From Algorithms to Applications"
-1. T. E. Creighton "Proteins" (2nd edition, W.H. Freeman, and Co., New York)
-
+2. T. E. Creighton "Proteins" (2nd edition, W.H. Freeman, and Co., New York)
 ___
 \newpage

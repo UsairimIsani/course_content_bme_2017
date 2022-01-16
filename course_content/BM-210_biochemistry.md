@@ -1,8 +1,6 @@
 # **(BM-210) - Biochemistry**
-
-
-
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Introduction to Biochemistry**
    1. Colloidal state, buffer, pH, significance of pH Henderson equation, surface tension, viscosity, osmosis, diffusion, Biological Membrane, active Transport, Chemi-osmotic theory-passive transport concept of chromatographic techniques (TLC, paper chromatography, GLC column chromatography etc.) carbohydrates, amino acids, nucleic acids, proteins, vitamins, enzymes, hormones & signaling agents.
 1. **Metabolism of Carbohydrates, Lipids and Proteins**
@@ -17,7 +15,7 @@
    1. Digestion, absorption and secretion. Utilization of dietary lipids
 1. **Vitamins**
    1. folic acid, VitaminB12, Vitamin C, Vitamin D, Vitamin B1, Vitamin A, Vitamin E.
-###### **List of Practicals:**
+## **List of Practicals:**
 1. How to prepare the Solution in Lab
 1. Determination of pH by pH meter and Litmus paper
 1. Demonstration the action of buffer
@@ -34,26 +32,21 @@
 1. Open ended lab I
 1. Open ended lab II
 1. Open ended lab III
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Text and Reference Books:**
 
 1. Lippincott, Bio-Chemistry 5th Ed,2010 Donald Voet, Judith, G. Voel and Charlotte, W. Prats,
 1. Fundamentals of Biochemistry, 2006, John Wiley & Sons. Rodney Boyer,

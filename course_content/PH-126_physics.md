@@ -1,77 +1,86 @@
-# **(BM-115) - Physics**
+# **(PH-126) - Physics**
 
 ## **Course Outline:**
 
 ### **Theory**:
-1. **Properties of Matter**
-   1. Elasticity and modulus of Elasticity
-   1. Experimental determination of young’s modulus
-   1. Bending of beams
-   1. Cantilever.
-1. **Fluids**
-   1. Steady and turbulent flow
-   1. Bernoulli’s theorem, Viscosity
-   1. determination of Coefficient of viscosity by Poiseuillie's method
-   1. Surface tension
-   1. Surface energy
-   1. Angle of contact
-   1. Determination surface tension by rise in a capillary tube.
-1. **Heat & Thermodynamics**
-   1. Heat, Temperature, and Theories of heat
-   1. Adiabatic and isothermal processes
-   1. The four laws of thermodynamics
-   1. Thermodynamic functions
-   1. Efficiency of Heat Engines
-   1. Carnot’s Cycle
-   1. Entropy
-   1. Reversible Process and cycles
-   1. Thermodynamic equilibrium
-   1. Introduction to Heat transfer Mechanisms.
-1. **Optics**
-   1. Waves and Oscillations
-   1. Simple Harmonic Motion
-   1. types of wave motion
-   1. Optics of light
-   1. Interference
-   1. Diffraction
-   1. Polarization
-   1. Double refraction
-   1. Dispersion
-   1. Types and uses of Deviation Lasers
-1. **Electricity and Magnetism**
-   1. Electric charges
-   1. Electric field
-   1. Electric potential
-   1. Coulomb’s law
-   1. Gauss’s law
-   1. Capacitors and dielectrics
-   1. Electric current
-   1. Ohm’s Law
-   1. Magnetic properties of matter
-   1. Magnetic field
-   1. Magnetic force on current
-   1. Ampere’s law, Faraday’s law, and Lenz’s law
-1. **Sound**
-   1. Hearing and Echolocation
-   1. Ultrasound
-
+1. **Vectors:**
+   1. Vectors & vector derivatives.
+   2. Gradient of a scalar functions. 
+   3. Line and surface integrals.
+   4. Curl & divergence.
+2. **Mechanics:**
+   1. Coordinate systems. 
+   2. Motion under constant acceleration.
+   3. Uniform circular motion.
+   4. Projectile motion.
+   5. Frictional forces.
+   6. Fluid friction.
+   7. Work and energy principle.
+   8. Angular momentum.
+3. **Elasticity:**
+   1. Stress and strain;
+   2. Elastic properties of matter;
+   3. physical basis of elasticity; 
+   4. tension; 
+   5. compression and sharing; 
+   6. modulus of rigidity; 
+   7. relation between three types of elasticity.
+4. **Wave, Optics and Laser:**
+   1. Standing waves and its analytical treatments;
+   2. travelling waves; 
+   3. interference; 
+   4. diffraction and polarization phenomenon;
+   5. laser;
+   6. stimulated emission;
+   7. population inversion; 
+   8. laser applications.
+5. **Modern Physics:** 
+   1. Inadequacy of classical physics: 
+      1. Black body radiation; 
+      2. photoelectric effect; 
+      3. Compton scattering;
+   2. De-Broglie wave particle duality hypothesis;
+   3. Uncertainty principle; 
+   4. Quantum physics.
+   5. Atomic spectrum: 
+       1.  Atomic spectra; 
+       2.  Bohr theory and hydrogen spectrum; Modification and generalization.
+6. **Nuclear physics:** 
+   1. Properties of nuclear; 
+   2. nuclear stability; 
+   3. Alpha, Beta and Gamma decay.
+   4. Radioactivity & radioactive equilibrium;
+   5. secular equilibrium; 
+   6. radiation detectors; 
+   7. GM tube; 
+   8. counters and nuclear reactor.
+7. **Thermodynamics:**
+   1. Closed and open systems; 
+   2. specific heats; 
+   3. thermal expansion; 
+   4. internal energy; 
+   5. enthalpy and specific heat of ideal gasses;
+   6. heat transfer; 
+   7. energy transfer by work;
+   8. mechanism of heat transfer; 
+   9. Zeroth law, first law; (application for closed and open systems); 
+   10. second law and third law of thermodynamics;
 ### **Practical:**
 1. Study of Hook’s Law
-1. Measuring stress, strain and Young’s Modulus of different materials
-1. Study of Surface Tension and Viscosity of liquids
-1. Study of Boiling points of liquids
-1. Study of Gas laws
-1. Venturi effect of liquids in motion
-1. Heat transfer and entropy
-1. Study of light, Color addition, Refection and Prism
-1. Measurement of Snell’s Law
-1. Convex and Concave Lens
-1. Study of reversibility and Dispersion of Light
-1. Focal point and Magnification of Thin lens
-1. Focal point and Magnification of Concave Mirror
-1. Telescope and Microscope
-1. Calculation of speed of Sound
-1. Project : Construction of Telescope./Microscope
+2. Measuring stress, strain and Young’s Modulus of different materials
+3. Study of Surface Tension and Viscosity of liquids
+4. Study of Boiling points of liquids
+5. Study of Gas laws
+6. Venturi effect of liquids in motion
+7. Heat transfer and entropy
+8. Study of light, Color addition, Refection and Prism
+9. Measurement of Snell’s Law
+10. Convex and Concave Lens
+11. Study of reversibility and Dispersion of Light
+12. Focal point and Magnification of Thin lens
+13. Focal point and Magnification of Concave Mirror
+14. Telescope and Microscope
+15. Calculation of speed of Sound
 
 ---
 

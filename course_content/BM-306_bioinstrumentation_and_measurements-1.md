@@ -1,8 +1,6 @@
-
 # **(BM-306) - Bio-Instrumentation and Measurements - I**
-
-                            |                         |             |      |   |
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Introduction to measurements**
    1. Precision
    1. Resolution
@@ -16,28 +14,25 @@
    1. Invasive and noninvasive measurement techniques and related equipment.
    1. Functional Building blocks of a Biomedical Instrumentation System
 1. **Cardiovascular System Devices**
-   1. Diagnostic: Electrocardiography, Measurement of Blood pressure,
-
-Blood flow
-
-1. Therapeutic: Cardiac output. Defibrillator, pacemaker
-1. **Pulmonary System Devices**
+   1. Diagnostic: Electrocardiography, Measurement of Blood pressure, Blood flow
+   2. Therapeutic: Cardiac output. Defibrillator, pacemaker
+2. **Pulmonary System Devices**
    1. Diagnostic: Pulmonary Function Analyzer, Spirometry, Ventilation Monitors, Respiration: Pulse oximetry, Capnography,
-   1. Therapeutic: Ventilators, Heart lung machine, nebulizer
-1. **Musculoskeletal & Nervous System Devices**
+   2. Therapeutic: Ventilators, Heart lung machine, nebulizer
+3. **Musculoskeletal & Nervous System Devices**
    1. EMG
-   1. EEG
-1. **Critical Care Devices**
+   2. EEG
+4. **Critical Care Devices**
    1. Patient Monitoring**:** Patient Monitors, central monitoring system, telemetry system
-   1. Surgical/Operation Theatre Devices Equipment**:** Electrosurgical unit
-1. **Genito-urinary System Devices**
+   2. Surgical/Operation Theatre Devices Equipment**:** Electrosurgical unit
+5. **Genito-urinary System Devices**
    1. Hemodialysis Machine
-1. **Quality Assurance and Quality Control**
+6. **Quality Assurance and Quality Control**
    1. Common defects in medical equipment
-   1. Performance measurement
-   1. Calibration
-   1. Maintenance and repair
-###### **List of Practicals:**
+   2. Performance measurement
+   3. Calibration
+   4. Maintenance and repair
+## **List of Practicals:**
 1. To study the principle of various Biomedical Transducer
 1. To understand methods and instruments for body temperature measurement and compare temperature sensor for selection on the basis of their properties
 1. To study the working of photo detectors/photo sensors and their application in biomedical
@@ -54,26 +49,21 @@ Blood flow
 1. To practice the safety aspect of ultrasound machine using standard procedure
 1. To observe the principle and working of ventilator.
 1. Open ended lab 1
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Recommended Text and Reference Books:**
+## **Recommended Text and Reference Books:**
 
 1. Biomedical Instrumentation & Measures 2nd edition by Leslie Cromwell.1980. ISBN: 978-81-203-0653-0.
 1. Bioinstrumentation by John G. Webster.2004.ISBN: 978-81-265-1369-7

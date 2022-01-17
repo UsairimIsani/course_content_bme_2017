@@ -25,7 +25,7 @@
 | BM-306 | Bioinstrumentation and Measurements-I            | 4           | B-    | -    |      |
 | BM-311 | Bioinstrumentation and Measurements-II           | 4           | A-    | -    |      |
 | EE-217 | Circuit Theory                                   | 2           | A-    | -    | ✔️    |
-| FE-119 | Fundamentals of Electrical Engineering           | 4           | A     | -    |      |
+| FE-119 | Fundamentals of Electrical Engineering           | 4           | A     | -    | ✔️    |
 | BM-452 | Modelling and Simulation for Biomedical Engineer | 3           | B+    | -    |      |
 | BM-401 | Numerical Methods for Biomedical Engineers       | 3           | A-    | -    |      |
 | BM-310 | Control Systems for Biomedical Engineers         | 4           | A+    | -    |      |
@@ -40,8 +40,8 @@
 | HS-219 | Professional Ethics                              | 2           | B+    | -    |      |
 | BM-307 | Bioinformatics                                   | 3           | A-    | -    |      |
 | HS-104 | Functional English                               | 3           | B+    | -    | ✔️    |
-| HS-105 | Pakistan Studies                                 | 2           | A     | -    |      |
-| HS-202 | Business Communication                           | 3           | B+    | -    |      |
+| HS-105 | Pakistan Studies                                 | 2           | A     | -    | ✔️    |
+| HS-202 | Business Communication                           | 3           | B+    | -    | ✔️    |
 | HS-205 | Islamic Studies                                  | 2           | B     | -    | ✔️    |
 | HS-200 | Community Service                                | -           | -     | -    |      |
 | BM-413 | Biomedical Engineering Project                   | 6           | A-    | -    |      |

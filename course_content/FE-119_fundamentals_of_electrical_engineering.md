@@ -1,99 +1,59 @@
 # **(FE-119) - Fundamentals of Electrical Engineering **
-
 ## **Course Outline:**
-
 ### **Theory:**
-1. **Review**
-   1. Structure of Matter, Conductors, Insulators and Semiconductors
-   1. Electric Current, Electromotive Force (Voltage), Resistance, Conductance
-1. Conventional Current, DC and AC, Real and ideal Sources
-1. Ohm’s Law
-1. Work, Energy and Power, Efficiency
-1. **Resistive Network**
-   1. Kirchhoff’s voltage and current Laws
-   1. Voltage and Current Source Conversion
-   1. The Voltage-Divider Rule
-   1. The Current-Divider Rule
-   1. Series and Parallel Connected Sources
-   1. Y-Delta Transformations
-   1. Balanced Bridges
-1. **Network Theorems**
-   1. The Superposition Theorem
-   1. Maximum Power Transfer Theorem
-1. **Capacitance and Capacitors**
-   1. The Nature of Capacitance
-   1. Capacitor Dimensions and Dielectrics
-   1. Capacitor Types
-   1. Energy Stored in a Capacitor
-   1. Transients in RC Networks
-1. **Inductance and Inductors**
-   1. Electromagnetic Induction
-   1. Lenz’s Law, Faraday’s Transformer Action, Self-Inductance, Inductor
-   1. Energy Stored in an Inductor
-   1. Transients in RL Circuits
-1. **Poly Phase Systems**
-   1. Three phase circuits and balanced loads.
-1. **Transformers and AC Machines**
-   1. General principle working, fundamental equations, types, efficiency and losses.	
 
-### **Practical:**
-1. To get familiar with the usage of dual power supply and multimeter.
-1. To study the resistor color code and measure the value
-
-of given resistors by the resistor color code chart and also study about the potentiometer.
-
-1. To study the properties of series circuit and also find the calculated value and measured values of the given resistors.
-1. To study the properties of parallel circuit and also find the calculated value and measured values of the given resistors.
-1. To solve the given combination (series-parallel) circuit and find the values given in the observation table.
-1. To study the properties of combination (series-parallel) circuit and also solving the given circuits.
-1. To study the properties of combination (series-parallel) circuit and also solving the given circuits.
-1. To analyze the given circuit using superposition theorem and find out the value of voltage and current across Resistor.
-1. To solve the given circuit using superposition theorem and find out the voltage and current.
-1. To determine by analysis the values VTH and RTH in a DC circuit containing a single voltage source.
-1. To verify Norton’s Theorem and the theory of source Transformation.
-1. To study the different switching method.
-1. To study the characteristics of the transformer.
-1. To perform open circuit and short circuit testing of a transformer
-1. To study the characteristics and working principle of DC motor.
-1. To study the different Relay switches.
-
-## **Suggested Teaching Methodology:**
-- Lecturing
-- Written Assignments Report Writing
-
-## **Suggested Assessment:**
-
-### **Theory (100%)**
-- Sessional (20%)
-- Quiz (12%)
-- Assignment (8%)
-- Midterm (30%)
-- Final Term (50%)
-
-### **Laboratory (100%)**
-- Labs
-
-## **Text Book:**
-1. Basic Engineering Circuit Analysis, 8th Edition 2004 David Irwin ISBN-978- 81-265-
-
-___
-\newpage
-   
-   ### **Course Outline:**
-1. **The RLC Circuits**
-   1. Source Free Series & Parallel RLC Circuits,
-   1. over- damped, under-damped, critically damped RLC Circuits,
-   1. complete response of RLC Circuits, Lossless LC Circuits,
-   1. Power Factor Calculations
-1. **The Sinusoidal Steady Response**
-   1. Nodal, Mesh & loop analysis, Comparison between Nodal and Mesh Analysis
-   1. AC source Transformation, Thevenin’s, Norton’s,
-   1. Reciprocity & Compensation theorems. Maximum Power Transfer Theorem.
-   1. First Order Circuits (RL and RC): Transient Response, Steady State Response, Unit Step Response
-1. **Complex Frequency**
-   1. Introduction to complex frequency damped sinosoidal forcing function, Z (s) & Y (s), frequency response as a function of s, Complex frequency plane, natural response & the S-Plane.
-   1. Voltage ratio synthesizing, Scaling & Bode Diagrams.
-   1. General Two Port Networks: Introduction, admittance parameters, some equivalent networks, impedance parameters, hybrid parameters, transmission parameters.
+1. **Electrical Elements and Circuits:**
+   1. Energy and energy transfer.
+   2. Electric Charge.
+   3. Electric Current.
+   4. Potential difference and voltage.
+   5. Electric power and energy 
+   6. Electric circuit Sources and Elements.
+   7. Resistance, Ohm’s law.
+   8. Inductance.
+   9. Capacitance. 
+   10. Fundamental circuit laws.
+   11. Kirhhoff’s Laws. 
+   12. Direct application of fundamental laws to simple resistive networks.
+   13. Node voltage and loop current methods.
+2. **Steady State AC Circuits:**
+   1. An introduction to periodic functions.
+   2. RMS or effective Average and maximum values of current and voltage for sinusoidal signal wave forms. 
+   3. An introduction to phasor method of analysis.
+   4. Applications of phasor methods to simple AC circuits.
+   5. Power and reactive power.
+   6. Maximum power conditions.
+3. **Magnetic Circuits and Transformers:**
+   1. Magnetic effects of electric current.
+   2. Magnetic circuit concepts.
+   3. Magnetization curves.
+   4. Characteristics of magnetic materials.
+   5. Magnetic circuits with AC excitation.
+   6. Hysteresis and eddy current losses.
+   7. Introduction to transformer.
+   8. The Ideal transformer.
+4. **Electromechanical Energy Conversion:**
+   1. Basic Principles.
+   2. Generated voltage.
+   3. Electromagnetic Torque.
+   4. Introduction of Magnetic Fields.
+   5. Alternating Current Generators. 
+   6. Commutator Action.
+   7. DC Machines.
+   8. Direct Current Generators.
+   9. Electric Motors.
+   10. Losses and Efficiency.
+   11. Machine Application Consideration.
+5. **Sinusoidal Steady State Analysis:**
+   1. Network Response to Sinusoidal Driving Functions.
+   2. Complex Impedance and Admittance Functions
+   3. Development of Concept of Phasors
+   4. Power Consideration.
+   5. Complex Power.
+   6. Maximum Power Transfer.
+   7. Tuned Circuits.
+   8. Series and Parallel RLC Tuned Circuits.
+   9. Definition of Quality Factor.
 ###### **List of Practicals:**
 1. To determine the voltage of series circuit
 1. To determine the voltage of parallel circuit.
@@ -111,26 +71,24 @@ ___
 1. To determine the transient analysis and plot transient analysis of RLC circuit using PSpise.
 1. Determine Natural Response of an RLC circuit.
 1. To study source free RL circuit and determine its response mathematically and graphically
-### **Suggested Teaching Methodology:**
-Lecturing
 
-Written Assignments Report Writing
-### **Suggested Assessment:**
-**Theory (100%)**
+## **Teaching Methodology:**
+- Lecturing, Student Engagement
+- Quizzes and Assignments, uploading suggested resources on course website.
+- Semester Project
+ 
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Sessional (20%)
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Quiz (12%)
+### **Laboratory (100%)**
 
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text book & Reference Books:**
+## **Text and Reference Books:**
 
 1. Engineering Circuit Analysis by William Hayt, 7th Edition, 2006. ISBN: 978- 0073263182
 1. Fundamentals of Electric Circuits by Charles K.Alexander, Matthew N. O. Sadiku. 4th Edition, 2008.ISBN 978-0077263195

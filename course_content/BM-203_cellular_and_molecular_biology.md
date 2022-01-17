@@ -3,6 +3,7 @@
 ## **Course Outline:**
 
 ### **Theory:**
+
 1. Basic properties of cells
 1. Prokaryotic and eukaryotic cells
 1. Viruses
@@ -24,9 +25,11 @@
 1. Cell signalling
    
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -36,6 +39,7 @@
 - Final Term (50%)
 
 ## **Reference Text Book:**
+
 1. H. Lodish et al. 2012. Molecular Cell Biology, 7th Ed. W.H Freeman and Company, and Turning
 1. Molecular Biology of the Cell (MBC) 5th Edition, 2008 Alberts, Johnson, Lewis, Raff, Roberts, Walter.
 

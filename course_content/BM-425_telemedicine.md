@@ -1,7 +1,9 @@
 #### **(BM-425) - Telemedicine**
 
+## **Course Outline:**
 
-### **Course Outline:**
+### **Theory:**
+
 1. **Origins and Development of Telemedicine**
    1. Overview of e-Health, Telehealth and Telemedicine
    1. Technological & non-technological drivers
@@ -59,10 +61,14 @@
    1. DICOM
    1. HL7 standards
    2. HIMSS
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

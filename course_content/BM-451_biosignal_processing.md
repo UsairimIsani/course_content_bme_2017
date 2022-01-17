@@ -46,9 +46,12 @@
 1. Open ended lab 2
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -58,6 +61,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

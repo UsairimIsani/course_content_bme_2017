@@ -45,10 +45,14 @@
 1. Designing and analyzing frequency response of Active Band Pass Filter
 1. Designing and analyzing frequency response of Active Band Stop Filter/
 1. Project : ECG/EMG/ EOG/PPG Amplifier and filters
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

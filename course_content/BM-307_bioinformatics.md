@@ -1,8 +1,9 @@
 # **(BM-307) - Bioinformatics**
 
-
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **History and evolution of bioinformatics**
    1. Introduction to databases (Database types, Database formats, DNA databases, European Molecular Biology Laboratory (EMBL)
    1. Genomics
@@ -39,10 +40,14 @@
    1. Statistical mechanics of biomolecules (e.g., canonical ensemble, ergodicity)
    1. Modeling interaction in protein (Bond-length and bond-angle potentials)
    1. Molecular Dynamics Simulations
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -52,8 +57,11 @@
 - Final Term (50%)
 
 ### **Practical Exercises (100%)**
+
 - Open-Ended Labs
+
 ## **Text and Reference Books:**
+
 1. Introduction to Bioinformatics, Arthur M. Lesk, 4th Edition, Oxford University Press, 2014, ISBN 0198724675, 9780198724674
 1. Bioinformatics and Functional Genomics, Jonathan Pevsner, 2nd Edition, Wiley, 2009, ISBN 0470085851, 9780470085851.
 1. D. Frankel and B. Smit "Understanding Molecular Simulations: From Algorithms to Applications"

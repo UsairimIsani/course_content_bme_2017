@@ -1,7 +1,10 @@
 
 # **(BM-209) - Basic Electronics**
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Semiconductor Theory**
    1. Introduction,
    1. Intrinsic and Extrinsic Semiconductors,
@@ -43,7 +46,10 @@
    1. RC phase shift oscillators,
    1. Wein-Bridge oscillators,
    1. Crystal oscillators based on BJT and FET.
+
+
 ## **List of Practicals:**
+
 1.	To observe the working of diode with forward and reverse bias.
 2. Plot the diode characteristic curve.
 2. Calculate the bulk resistance of the diode and observe its effect in the diode approximations.
@@ -60,11 +66,13 @@
 2. To use the transistor in switching mode.
 2. Demonstrate the operation and determine the biasing parameter of Base Bias Circuit.
 2. Demonstrate the operation and determine the biasing parameter of Voltage Divider Bias Circuit.
-## **Suggested Teaching Methodology:**
-Lecturing
 
-Written Assignments Report Writing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

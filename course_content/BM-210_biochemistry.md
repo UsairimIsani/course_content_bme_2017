@@ -15,6 +15,7 @@
    1. Digestion, absorption and secretion. Utilization of dietary lipids
 1. **Vitamins**
    1. folic acid, VitaminB12, Vitamin C, Vitamin D, Vitamin B1, Vitamin A, Vitamin E.
+
 ## **List of Practicals:**
 1. How to prepare the Solution in Lab
 1. Determination of pH by pH meter and Litmus paper
@@ -32,10 +33,14 @@
 1. Open ended lab I
 1. Open ended lab II
 1. Open ended lab III
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

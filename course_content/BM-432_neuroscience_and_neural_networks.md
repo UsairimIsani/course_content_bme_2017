@@ -1,6 +1,9 @@
-#### **(BM-432) - Neuroscience and Neural Networks**
+# **(BM-432) - Neuroscience and Neural Networks**
 
-### **Course Outline:**
+## **Course Outline:**
+
+### **Theory:**
+
 1. **Introduction to neuroscience**
    1. Nervous system
    1. Sympathetic
@@ -83,10 +86,14 @@
 1. To study different processing tools available in EEGLAB software for the processing of EEG data.
 1. To study about importing channels locations for EEG data using EEGLAB software.
 1. To understand the working of SLORETA software for EEG analysis of the deep cortical structures.
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -96,6 +103,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

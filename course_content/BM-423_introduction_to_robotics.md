@@ -1,6 +1,7 @@
 #### **(BM-423) - Introduction to Robotics**
 ## **Course Outline:**
 ### **Theory:**
+
 1. **Fundamentals**
    1. What is a Robot?
    1. Classification of Robots.
@@ -80,10 +81,14 @@
 13. Open ended lab 1
 13. Open ended lab 2
 13. Open ended lab 3
+    
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

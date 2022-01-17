@@ -29,6 +29,8 @@
 4. **Endocrinology and Reproduction**
    1. Introduction to Endocrinology and the pituitary Hormones;
    2. Hormonal functions in male and female
+
+
 ## **List of Practicals:**
 1. Study of kymograph
 1. Recording of simple muscle twitch in Gastrocnemius sciatic nerve preparation
@@ -48,10 +50,12 @@
 3. (a) To calculate nerve conduction velocity from twitch records obtained by using a nerve-muscle preparation using Kymograph. (b) To calculate nerve conduction velocity from twitch records obtained by using a nerve-muscle preparation using powerlab. To locate the gustoreceptors in the human
 4. Demonstration of the recording of an (extracellular) action potential from frog sciatic nerve (monophasic & biphasic) on oscillograph / oscilloscope
 5. Study of reflex movements in spine of frog; Effect of acid treatment, Effect Effects of electric shock & Effect of Strychnine
+
 ## **Suggested Teaching Methodology:**
 - Lecturing
 - Written Assignments Report Writing
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

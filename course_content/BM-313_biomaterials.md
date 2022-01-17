@@ -1,7 +1,9 @@
 # **(BM-313) - Biomaterials**
 
 ## **Course Outline:**
+
 ### **Theory**
+
 1. **Course Overview and Introduction**
    1. Introduction to biomaterials science
    1. Brief history of biomaterials (generations of biomaterials)
@@ -77,6 +79,7 @@
 - Written Assignments Report Writing
 
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

@@ -35,9 +35,11 @@
    1. Solution of Partial Differential Equations by Finite Differences Methods (Explicit, Implicit and Crank-Niclson techniques) and ADI Method.
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

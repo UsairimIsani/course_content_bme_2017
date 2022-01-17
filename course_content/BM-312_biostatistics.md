@@ -1,7 +1,9 @@
 # **(BM-312) - Biostatistics**
 
+## **Course Outline:**
 
-### **Course Outline:**
+### **Theory:**
+
 1. **Descriptive Biostatistics**
    1. Introduction to Biostatistics,
    1. Measures of Central Tendency,
@@ -32,10 +34,14 @@
 1. **Statistical Software**
    1. Make appropriate use of statistical software (STATA, SPSS, MS- EXCEL etc.).
 
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -45,9 +51,11 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 
+## **Recommended Text and Reference Books:**
 1. Bernard Rosner, “Fundamentals of Biostatistics”, 7th Edition, Brooks/Cole Cengage Learning.
 1. Wayne W. Daniel, “Biostatistics: A Foundation for Analysis in the Health Sciences”, 10th Edition, John Wiley & Sons, Inc
 1. SPSS survival manual a step by step guide to data analysis using SPSS 4th edition by Julie Pallant.

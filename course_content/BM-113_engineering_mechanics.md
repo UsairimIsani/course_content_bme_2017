@@ -51,6 +51,7 @@
 - Written Assignments Report Writing
 
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -60,6 +61,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 ## **Text and Reference books:**
 Engineering Mechanics Statics; R. C. Hibbeler, 12th ed. 2007, Pearson Prentice Hall.
 Engineering Mechanics Dynamics; R. C. Hibbeler, 12th ed. 2007, Pearson Prentice Hall.

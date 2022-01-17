@@ -47,6 +47,7 @@
    1. Temporal-spatial parameters
    1. Hip, knee and ankle joint kinematics and kinetics
    1. Interpretation of gait data
+
 ## **List of Practicals:**
 1. To determine the coordinates of the centre of gravity (COG) of a body using segmentation method.
 1. To determine the centre of Gravity Measurement using Reaction Board
@@ -64,10 +65,14 @@
 1. Study of blood flow using blood vessel models
 1. To design the human limbs on Solid works.
 1. To analyse the human limbs on ANSYS.
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -77,6 +82,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

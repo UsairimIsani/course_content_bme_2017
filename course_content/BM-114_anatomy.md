@@ -64,6 +64,7 @@
 - Written Assignments Report Writing
 
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

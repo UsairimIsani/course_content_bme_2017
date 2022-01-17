@@ -89,10 +89,14 @@
 1. Dilation and erosion
 1. Detection of discontinuities, Edge linking and boundary detection, Segmentation by thresholding
 1. Object recognition, classification and image compression
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -102,6 +106,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

@@ -28,6 +28,7 @@
    1. Bode and Polar Plots
    1. Stability via the Nyquist Diagram
    1. Gain Margin and Phase Margin
+
 ## **List of Practicals:**
 1. To be familiar with the Matlab programming and control system toolbox.
 1. Find the closed-loop transfer function of the system.
@@ -46,12 +47,13 @@
 1. Open ended lab 3
 1. Open ended lab 4
 
-
-
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

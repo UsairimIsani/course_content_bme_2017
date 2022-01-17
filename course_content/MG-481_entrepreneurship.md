@@ -1,60 +1,27 @@
 # **(MG-481) - Entrepreneurship**
-
-
-
-### **Course Outline:**
-1. **Course Overview and Introduction to Entrepreneurship**
-   1. Entrepreneurship Jigsaw Puzzle.
-   1. Intrapreneurship & Entrepreneurship
-   1. Allocation of projects
-1. **Nature & Development of Entrepreneurship**
-   1. Types of Start-Ups
-   1. Role of Entrepreneurship in Economic Development.
-   1. Skill Requirements for Entrepreneurship
-   1. Ethics & Social Responsibility of Entrepreneurs
-   1. Future of Entrepreneurship.
-1. **Identifying & evaluating the opportunity**
-   1. Developing the Business Plan
-   1. Determining the resources required for managing the Enterprise.
-   1. Managerial Versus Entrepreneurial Decision Making
-   1. Causes for Interest in Entrepreneurship
-   1. Corporate Versus Intrapreneurial Culture
-   1. Comparison of Entrepreneurial
-   1. Intrapreneurial& Traditional Managers.
-   1. Climate for Intrapreneurship
-   1. Intrapreneurial Leadership Characteristics.
-   1. Establishing Intrapreneurship in the Organization.
-   1. Problems and Successful Efforts.
-1. **The Individual Entrepreneur**
-   1. Discuss basic criteria for evaluating business ideas
-1. **Entrepreneurial Strategy**
-   1. Entrepreneurial Feelings.
-   1. Entrepreneurial Background and Characteristics.
-   1. Motivation for Entrepreneurship.
-   1. Role Models and Support Systems.
-   1. Entrepreneurs versus Inventors.
-   1. Non-Entrepreneurial Profiles
-   1. Twenty Principles of Entrepreneurship
-   1. Writing and Using the Business Plan.
-   1. Planning for business operation.
-   1. Guest Speaker Session.
-1. **Product Development**
-   1. Essentials of New Product Development.
-   1. Examples of change in Product Design & Manufacturing
-   1. Development processes & Organizations
-   1. Guest Speaker Session.
-   1. Identifying Customer Needs
-   1. Establishing Product Specifications
-   1. Sustainable Manufacturing
-1. **Marketing, Organizational and Financial plan**
-   1. Introduce basic marketing plans for entrepreneurial firms
-   1. Examine basic organizational forms for entrepreneurial firms
-1. **Entrepreneurial Financing:**
-   1. Discuss financing issues for new ventures
-   1. Introduce venture capital investment process
-1. **Project Management Skills for Entrepreneurial projects**
-1. **Project Presentations**
-
+## **Course Outline:**
+### **Theory:**
+1. **Understanding the Entrepreneurship Mind-Set:** 
+   1. The revolution impact of Entrepreneurship; 
+   2. The individual Entrepreneurship Mind-set; 
+   3. Corporate Entrepreneurship Mind-set; 
+   4. The Social and Ethical perspective of Entrepreneurship.
+2. **Conceptualizing Entrepreneurship:** 
+   1. Definitions and perspective; 
+   2. Four dimensions of an entrepreneurship venture-individuals, organization, environmental and process.
+3. **Formulation of Entrepreneurship:** 
+   1. The assessment of function with opportunities; 
+   2. The marketing aspects of new ventures; 
+   3. Financial statements in new ventures; Business plan preparation for new ventures.
+4. **Launching Entrepreneurship Ventures:** 
+   1. Creativity and innovations; 
+   2. Methods to initiate ventures; 
+   3. Legal challenges in Entrepreneurship; 
+   4. The search for Entrepreneurship.
+5. **Strategies perspectives in Entrepreneurship:** 
+   1. Strategies growth in Entrepreneurship; 
+   2. Valuation challenges in Entrepreneurship; 
+   3. Final harvest of a new venture.   
 
 ## **Suggested Teaching Methodology:**
 - Lecturing
@@ -69,15 +36,9 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
-- Labs
-- Open-Ended Labs
-
 ## **Recommended Text and Reference Books:**
-
-1. “Entrepreneurship (5th Edition), Robert D. Hisrich& Michael P. Peters. McGraw-Hill Irwin. Product Design & Development, Karl T Ulrich & Steven D. Eppinger.
-1. Case studies and others will be placed with the photocopier and soft copies of presentations will be uploaded on LMS.
-1. Technology Ventures (2013 Edition), Richard C. Dorf & Thomas H. Byers.
+1. Introduction to Entrepreneurship by Donald F. Kuratko
+2. The Entrepreneurial Mindset by McGrath R. G. & McMillan I.
 
 ___
 \newpage

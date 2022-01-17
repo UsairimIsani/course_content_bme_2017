@@ -1,34 +1,37 @@
 # **(EE-493) - Digital Signal Processing** 
-### **Course Outline:**
-1. **Signal and System Characteristics and Models**
-   1. Concept of Continuous-Time and Discrete-Time Signals and Systems
-   1. Basic Operations on Signals
-   1. Signal and system classifications
-1. **Time-Domain Representation of Continuous-Time Signals**
-   1. Sinusoidal and Complex Exponential Signals
-   1. Singularity Function Signals
-   1. Signal Energy and Power
-1. **Time-Domain Analysis of Continuous-Time Systems**
-   1. System Impulse Response
-   1. Continuous-Convolution Evaluation and Properties
-1. **Frequency-Domain Representation of Continuous& Discrete-Time Signals**
-   1. Spectra and Bandwidths of Continuous-& Discrete Time Signals
-   1. Fourier Series Representation of Signals
-   1. Amplitude and Phase Spectra of Periodic Signals
-   1. The Fourier Transform and Spectra of Aperiodic Signals
-   1. Properties of Fourier transform
-1. **Frequency-Domain Analysis of Continuous-Discrete Time Systems**
-   1. System Frequency Response
-   1. Amplitude and Phase Responses
-1. **Analysis of Continuous-Time Systems Using the Laplace Transform**
-   1. Laplace Transform Evaluations and Theorems
-   1. Evaluation of Inverse Laplace Transforms
-   1. System Transfer Function and stability
-1. **Continuous-Time Filters**
-   1. Distortion-less Transmission
-   1. Ideal Filters
-   1. Approximation of Ideal Filters
-   1. Butterworth and Chebyshev Filter Design
+## **Course Outline:**
+### **Theory:**
+1. **Introduction**
+   1. Overview of Discrete-time Signals and Systems.
+   2. Sampling
+   3. Aliasing.
+   4. Quantization.
+   5. Convolution
+   6. Correlation.
+   7. Properties of Discrete time Signals and Systems.
+2. **Discrete Fourier Transform:** 
+   1. Frequency Domain Sampling.
+   2. DFT Properties.
+   3. Inverse DFT.
+   4. Windowing and DFT Leakage.
+   5. Direct Computation of DFT.
+3. **Fast Fourier Transform:**
+   1. Divide and Conquer.
+   2. Radix algorithms. 
+   3. Inverse FFT.
+   4. Applications of FFT.
+4. Discrete time systems implementation.
+   1. Overview of z-transform. 
+   2. Structures of Discrete time systems.
+   3. Fixed and Floating number types.
+   4. Quantization effects.
+5. **Design of Digital Filters:**
+   1. General Considerations 
+   2. FIR and IIR Filters.
+   3. Techniques of FIR and IIR filter Design.
+6. **Multirate Signal Processing:** 
+   1. Down sampling and Up sampling.
+   2. Decimation and Interpolation
    
 ## **List of Practicals:**
 1. To be familiarize with the MATLAB and SIMULINK.

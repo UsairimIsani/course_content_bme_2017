@@ -1,37 +1,49 @@
 # **(CS-430) - Microprocessor Programming and Interfacing**
 ## **Course Outline:**
 ### **Theory:**
-1. **Introduction to Microprocessor and Microcontroller**
-   1. Microprocessor and its Architecture
-   1. Simplified CPU / Memory Organization
-   1. Addressing modes / Instruction Set Summary
-   1. I/O port, pin diagram and functions
-   1. Data Bus, Address Bus and Control Bus
-1. **Using Assembly Language with C/C++**
-   1. Introduction to Assembly programming
-   1. I/O Programming
-   1. Arithmetic and Logical Operations
-   1. Program Looping and Subroutine
-   1. Serial Port Programming
-   1. Interrupts Programming
-1. **Data Acquisition Systems**
-   1. Analog to digital converters and performance Parameters
-   1. Designing of a Data Acquisition Systems
-   1. Serial Communication
-   1. Synchronous and Asynchronous Communication
-1. **Interfacing Microprocessor/Microcontroller**
-   1. Memory / Basic I/O interface
-   1. RAM / ROM interfacing
-   1. Keypad, Seven Segment / LED and LCD display
-   1. Serial and Parallel ADC
-   1. Sensor Interfacing
-   1. Relays and Opto-isolators interfacing
-   1. Stepper Motor Interfacing
-   1. DC motor interfacing and PWM
-1. **Defining an Engineering Problem**
-   1. Introduction to embedded system chip board designing
-   1. Component selection
-   1. Troubleshooting and problem fixing
+1. **Introduction**
+   1.  Computer Architecture
+   2.  Instruction Cycle
+   3.  Memory Organization.
+   4.  Memory Address decoding. 
+   5.  Memory Hierarehy. 
+   6.  Interrupts.
+   7.  Bus Arbitration Schemes. 
+   8.  Programmed I/O.
+   9.  Interrupt-Driven I/O.
+   10. Direct Memory Access.
+   11. General Purpose and Special Purpose Processors,
+   12. Internal Registers.
+   13. Internal Bus Architecture.
+   14. Pin Functions.
+   15. Addressing Modes
+2. **Instruction Set Architecture:** 
+   1. Data Transfer Instructions.
+   2. Arithmetic & Logic Instruction.
+   3. Branch (Instruction).
+3.  **Assembly programming:** 
+    1.  Testing Assembly Directives.
+    2.  Macros.
+    3.  Procedures. 
+    4.  Instruction Encoding.
+4. **Microcontroller peripherals:**
+   1. Bus Cycles, 
+   2. Reset Circuit
+   3. Clock Generation Circuit
+   4. Wait States.
+   5. Memory Interfacing
+   6. Memory Speed Requirements
+   7. I/O Interfacing
+   8. Programmable Peripheral Interface.
+   9. Programmable Interval Timer,
+   10. Programmable Interrupt 
+   11. Controller, Microprocessor System Design, 
+5. **Microcontroller Architectures:** 
+   1. MIPS
+   2. AVR
+   3. x86
+   4. ARM
+
 ###### **List of Practicals:**
 1. To demonstrate the hardware of microcontrollers and microprocessor
 1. To use Proteus and Multisim simulating software for simulation

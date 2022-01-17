@@ -19,12 +19,12 @@
 | EF-305 | Engineering Economics and Management             | 3           | C     | -    | ✔️    |
 | BM-203 | Cellular and Molecular Biology                   | 2           | B-    | -    | ✔️    |
 | BM-451 | Biosignal Processing                             | 3           | A-    | -    |      |
-| BM-423 | Introduction to Robotics                         | 3           | B-    | -    |      |
+| BM-423 | Introduction to Robotics                         | 3           | B-    | -    | ✔️    |
 | BM-404 | Biomechanics                                     | 3           | B+    | -    |      |
 | BM-208 | Biomedical Electronics                           | 4           | A     | -    |      |
 | BM-306 | Bioinstrumentation and Measurements-I            | 4           | B-    | -    |      |
 | BM-311 | Bioinstrumentation and Measurements-II           | 4           | A-    | -    |      |
-| EE-217 | Circuit Theory                                   | 2           | A-    | -    |      |
+| EE-217 | Circuit Theory                                   | 2           | A-    | -    | ✔️    |
 | FE-119 | Fundamentals of Electrical Engineering           | 4           | A     | -    |      |
 | BM-452 | Modelling and Simulation for Biomedical Engineer | 3           | B+    | -    |      |
 | BM-401 | Numerical Methods for Biomedical Engineers       | 3           | A-    | -    |      |

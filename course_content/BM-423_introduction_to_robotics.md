@@ -1,8 +1,6 @@
 #### **(BM-423) - Introduction to Robotics**
-
-
-
-### **Course Outline:**
+## **Course Outline:**
+### **Theory:**
 1. **Fundamentals**
    1. What is a Robot?
    1. Classification of Robots.
@@ -66,7 +64,8 @@
    1. Actuators for medical robots
    1. Controls for medical robots
    1. Interfaces for medical robots
-###### **List of Practicals:**
+
+## **List of Practicals:**
 1. Introduction to the Rhino
 1. The Tower of Hanoi
 1. Forward Kinematics
@@ -76,33 +75,26 @@
 1. Object Centroids
 1. Camera Calibration
 1. Pick and Place 10 Grading
-
-11 Tactile and force sensing 12 Proximity sensing
-
+1. Tactile and force sensing 12 Proximity sensing
 13. Medical robotics
 13. Open ended lab 1
 13. Open ended lab 2
 13. Open ended lab 3
-### **Suggested Teaching Methodology:**
-Lecturing
+## **Suggested Teaching Methodology:**
+- Lecturing
+- Written Assignments Report Writing
+## **Suggested Assessment:**
+### **Theory (100%)**
 
-Written Assignments
-### **Suggested Assessment:**
-**Theory (100%)**
+- Sessional (20%)
+- Quiz (12%)
+- Assignment (8%)
+- Midterm (30%)
+- Final Term (50%)
 
-Sessional (20%)
+### **Laboratory (100%)**
 
-Quiz (12%)
-
-Assignment (8%)
-
-Midterm (30%)
-
-Final Term (50%)
-
-**Laboratory (100%)**
-
-**Text and Reference Books:**
+## **Text and Reference Books:**
 
 1. Robotics: Everything You Need to Know About Robotics from Beginner to Expert, [Peter Mckinnon ](https://www.amazon.com/s/ref%3Ddp_byline_sr_book_1?ie=UTF8&text=Peter%2BMckinnon&search-alias=books&field-author=Peter%2BMckinnon&sort=relevancerank)(Paperback– January 28, 2016)
 1. Robotics, Vision and Control: Fundamental Algorithms in MATLAB, 2011

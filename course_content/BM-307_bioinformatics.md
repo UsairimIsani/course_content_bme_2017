@@ -66,5 +66,6 @@
 1. Bioinformatics and Functional Genomics, Jonathan Pevsner, 2nd Edition, Wiley, 2009, ISBN 0470085851, 9780470085851.
 1. D. Frankel and B. Smit "Understanding Molecular Simulations: From Algorithms to Applications"
 2. T. E. Creighton "Proteins" (2nd edition, W.H. Freeman, and Co., New York)
+
 ___
 \newpage

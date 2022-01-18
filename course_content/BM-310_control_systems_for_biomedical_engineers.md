@@ -1,7 +1,4 @@
 # **(BM-310) - Control Systems for Biomedical Engineers**
-
-
-
 ### **Course Outline:**
 1. **Introduction**
    1. Introduction to control systems

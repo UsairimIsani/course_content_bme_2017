@@ -19,6 +19,9 @@ All Course Contents can be verified from other department websites from [NED Uni
 [course_content_bme_2017](course_content_bme_2017)
 
 
+## [Course Codes with ECTS converted using Swedish system](course_codes/course_ects.csv)
+## [Course Codes with Credit hours](course_codes/course_credit_hours.csv)
+
 ---
 ## Process to create a pdf/docx from markdown files.
 ### Prerequisites

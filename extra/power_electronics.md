@@ -75,11 +75,11 @@
 1. To understand and design a circuit of a Single Phase Full Bridge Inverter.
 1. Open ended lab 1
 1. Open ended lab 2
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

@@ -25,15 +25,15 @@
    1. Neural engineering
    1. Medical Image Processing
    
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Guest Speaker
 - Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

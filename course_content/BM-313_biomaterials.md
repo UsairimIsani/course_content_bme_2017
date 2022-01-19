@@ -54,7 +54,7 @@
 8. **Biomaterials and thrombosis**
 9. **Infection, tumorogenesis and calcification of biomaterials**
 
-## **List of Practicals:**
+### **Practicals:**
 
 1. To build molecular model of a biopolymer from basic repeating peptide units
 1. Molecular graphics of basic repeating units of biopolymer
@@ -73,14 +73,14 @@
 1. Open ended lab 1
 1. Open ended lab 2
    
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -88,7 +88,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Recommended Texts and Reference Books:**
 

@@ -52,20 +52,21 @@
    9. Other treaties and Convention. 
    10. Pakistan’s response to Human Rights at national and international levels, Constitutional Provision
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
 - Assignment (8%)
 - Midterm (30%)
 - Final Term (50%)
+
 ## **Recommended Text and Reference Books:**
 
 1. Burki, Shahid Javed. State & Society in Pakistan, The Macmillan Press Ltd 1980.

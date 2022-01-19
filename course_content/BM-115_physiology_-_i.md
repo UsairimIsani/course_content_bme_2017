@@ -1,4 +1,4 @@
-# **(BM-115) - Physiology-I**
+# **(BM-115) - Physiology - I**
 
 ## **Course Outline:**
 
@@ -28,7 +28,7 @@
 6. **Special Senses**
    1. Eye, receptor function of the retina, Neurophysiology of Vision, the Chemical Sense-taste and smell
    
-## **List of Practicals:**
+### **Practicals:**
 1. Use of stethoscope & measurement of human arterial blood pressure & pulse
 1. Determination of Red Blood Cells per cmm of human Blood
 1. Determination of White Cells per cmm of human blood
@@ -49,13 +49,13 @@
 9.  To identify various parts of digestive tract & to observe cut mobility in exposed abdomen of dissected rabbit
 10. To determine the group of blood sample
    
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -63,7 +63,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

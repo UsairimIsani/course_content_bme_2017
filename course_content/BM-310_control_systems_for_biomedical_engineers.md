@@ -29,7 +29,7 @@
    1. Stability via the Nyquist Diagram
    1. Gain Margin and Phase Margin
 
-## **List of Practicals:**
+### **Practicals:**
 1. To be familiar with the Matlab programming and control system toolbox.
 1. Find the closed-loop transfer function of the system.
 1. To find the impulse and step responses of the control system.
@@ -47,14 +47,14 @@
 1. Open ended lab 3
 1. Open ended lab 4
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -62,7 +62,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 - Labs
 - Open-Ended Labs
 

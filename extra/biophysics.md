@@ -68,7 +68,7 @@
    1. acid base balance
    1. buffer system
    1. lung diseases
-###### **List of Practicals:**
+### **Practicals:**
 1. Develop molecular model of Peptide Unit
 1. Develop molecular model of Proteins
 1. To find out the ionization constant of given acid (Acetic Acid) by pH titration curve
@@ -85,11 +85,11 @@
 1. Determination of frequency, Intensity and airflow of speech phonics using phonatory function analyzer
 1. Demonstration of Ultrasound
 1. To observe and analysis of the different types of errors and disease of Eyes by using the Neurolab software or similar software.
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

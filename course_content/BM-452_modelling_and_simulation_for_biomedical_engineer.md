@@ -32,7 +32,7 @@
 4. **Software Implementations**
    1. Implementation of Biomedical models using software.
 
-## **List of Practicals:**
+### **Practicals:**
 1. Introduction to modeling using software
 1. Design of conceptual model
 1. Modeling of cardiovascular system
@@ -50,14 +50,14 @@
 1. Skin Absorption Model using Ficks’s Law
 1. Open ended lab 1
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -65,7 +65,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

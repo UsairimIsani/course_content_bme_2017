@@ -41,7 +41,7 @@
    1. Muscles
    1. Cranial nerves
 
-## **List of Practicals:**
+### **Practicals:**
 1. Demonstration of Human Skeleton in general.
 1. Demonstration of basic structures in Human Anatomy (Skin, Muscles & Other Structures).
 1. Demonstration of Anatomical planes & positions.
@@ -59,13 +59,13 @@
 1. Study and Demonstration of different Models.
 1. Audio & Visual Demonstration of Human Anatomy.
    
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -73,7 +73,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference books:**
 

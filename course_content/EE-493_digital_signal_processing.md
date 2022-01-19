@@ -36,7 +36,7 @@
    1. Down sampling and Up sampling.
    2. Decimation and Interpolation
    
-## **List of Practicals:**
+### **Practicals:**
 1. To be familiarize with the MATLAB and SIMULINK.
 1. To plot the sinusoidal, exponential and singularity functions
 1. To perform the time-shift, time-scaling and time-reversal operations on the signals
@@ -55,14 +55,14 @@
 1. Open ended lab 6
 
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -70,7 +70,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

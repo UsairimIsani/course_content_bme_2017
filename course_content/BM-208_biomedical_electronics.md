@@ -30,7 +30,7 @@
 1. **Selected Applications of OP-AMPs in Biomedical Engineering**
 1. **Signal Acquisition and Conditioning of ECG using OP-AMPs**
 
-## **List of Practicals:**
+### **Practicals:**
 
 1. Design and Analyze OP-AMP Based Inverting Amplifier
 1. Design and Analyze OP-AMP Based Non-Inverting Amplifier
@@ -49,14 +49,14 @@
 1. Designing and analyzing frequency response of Active Band Stop Filter/
 1. Project : ECG/EMG/ EOG/PPG Amplifier and filters
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -64,7 +64,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

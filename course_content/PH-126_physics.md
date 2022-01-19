@@ -65,6 +65,7 @@
    8. mechanism of heat transfer; 
    9. Zeroth law, first law; (application for closed and open systems); 
    10. second law and third law of thermodynamics;
+
 ### **Practical:**
 1. Study of Hook’s Law
 2. Measuring stress, strain and Young’s Modulus of different materials
@@ -82,15 +83,15 @@
 14. Telescope and Microscope
 15. Calculation of speed of Sound
 
----
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -98,10 +99,11 @@
 - Midterm(30%) 
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 - Labs
 
 ## **Text and Reference Books:**
+
 1. David Halliday, Robert Resnick and Jearl Walker, WIE Fundamentals of Physics, 7th ed. 2005, John Wiley & Sons, ISBN:0471465097
 2. Arthur Beiser, “ Schaum’s Outline of Applied Physics, 4th ed. 2004, McGraw-Hill, ISBN:0071426116
 3. Hobbie, Russell, Intermediate physics for medicine and biology-4th edition, 2007

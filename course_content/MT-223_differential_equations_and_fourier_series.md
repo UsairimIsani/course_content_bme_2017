@@ -1,7 +1,9 @@
-#### **(BM-223) - Differential Equations and Fourier Series**
+# **(BM-223) - Differential Equations and Fourier Series**
 
+## **Course Outline:**
 
-### **Course Outline:**
+### **Theory:**
+
 1. **1-st Order Differential Equations:**
    1. Basic concept; 
    2. Formation of differential equations and solution of differential equations by direct integration and by separating the variables; 
@@ -47,11 +49,14 @@
    4. Inverse Fourier transform
    5. Solution of differential equation using Fourier transform
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -59,7 +64,8 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

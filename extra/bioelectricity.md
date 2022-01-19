@@ -20,11 +20,11 @@
    1. The use of TENS for non-painful conditions
    1. Functional electrical Stimulation,
    1. Bio-signal control based electrical stimulation.
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+### **Suggested Assessment:**
+#### **Theory (100%)**
 - Sessional (20%)
 - Quiz (12%)
 - Assignment (8%)

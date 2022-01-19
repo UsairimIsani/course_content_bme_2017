@@ -25,11 +25,11 @@
    1. Validation of Processes of Production
    1. Identification and Traceability
    1. Control of Monitoring and Measuring Device
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

@@ -73,7 +73,7 @@
       1. ID3 Algorithm
       1. Statistical Learning.
 
-## **List of Practicals:**
+### **Practicals:**
 1. To study basics of Artificial Neural Network.
 1. To study how a self-organizing map neural network can cluster iris flowers into classes topologically, providing insight into he types of flowers and a useful tool for further analysis.
 1. Classification of wine vintage (using GUI) and crabs (through coding) using pattern recognition and classification network in Matlab.
@@ -87,14 +87,14 @@
 1. To study about importing channels locations for EEG data using EEGLAB software.
 1. To understand the working of SLORETA software for EEG analysis of the deep cortical structures.
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -102,7 +102,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

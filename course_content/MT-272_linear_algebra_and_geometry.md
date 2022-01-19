@@ -1,7 +1,9 @@
 # **(MT-272) - Linear Algebra And Geometry**
 
+## **Course Outline:**
 
-### **Course Outline:**
+### **Theory:**
+
 1. **Linear Algebra:**
    1. Linearity and linear dependence of vectors.
    2. Basis Vector. 
@@ -35,8 +37,9 @@
    4. Surfaces of revolutions. 
    5. Transformations (Cartesian to polar & cylindrical).
 
-## **Suggested Assessment:**
-### **Theory (100%)**
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -44,9 +47,8 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
-
 ## **Text and Reference Books:**
+
 1. Howard Anton, Elementary Linear Algebra, 11th Edition, ISBN: 9781118473504
 1. Gilbert Strang, Introduction to Linear Algebra, 5th Edition, ISBN: 9780980232776
 1. Sheldon Axler, Linear Algebra Done Right, 3rd Edition, ISBN: 9783319110790

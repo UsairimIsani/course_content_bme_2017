@@ -1,7 +1,9 @@
-#### **(MT-114) - Calculus**
+# **(MT-114) - Calculus**
 
+## **Course Outline:**
 
-### **Course Outline:**
+### **Theory:**
+
 1. **Set and Functions:** 
    1. Define rational, irrational and real numbers;
    2. Rounding off a numerical value to specified value to specified number of decimal places or significant figures;
@@ -37,12 +39,14 @@
    4. Standard functions and their inverses (exponential, circular and Hyperbolic functions).
 
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -51,6 +55,7 @@
 - Final Term (50%)
 
 ## **Recommended Text and Reference Books:**
+
 1. Advanced Engineering Mathematics, by Erwin Kreyszig, 8th Edition
 2. Calculus & Analytical Geometry, Howard Anton. Fifth Edition.
 3. Calculus, Thomas & Finney, 1994

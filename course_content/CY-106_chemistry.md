@@ -36,9 +36,9 @@
 4. Redox’s titrations.
 5. preparation of Acidic and Basic buffer solutions and mixture analysis.
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -46,7 +46,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 1. Silberberg Chemistry: The Molecular Nature of Matter and Change. McGraw Hill.

@@ -19,11 +19,11 @@
    1. Muscle Tissue Engineering
 5. Growth Factors
    1. Growth Factors and Morphogens: Signals for Tissue Engineering
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

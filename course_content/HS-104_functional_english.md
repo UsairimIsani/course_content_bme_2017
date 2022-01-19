@@ -37,14 +37,14 @@
    5. Interrupting a discussion without giving offence.
    6. Changing your stance / point of view in the course of a discussion, Summing up.
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

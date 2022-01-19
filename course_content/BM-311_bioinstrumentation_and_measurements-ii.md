@@ -1,4 +1,4 @@
-# **(BM-311) - Bio-Instrumentation and Measurements -  II**
+# **(BM-311) - Bioinstrumentation and Measurements -  II**
 
 ## **Course Outline:**
 ### **Theory:**
@@ -23,7 +23,7 @@
    1. Atomic force microscopy
    1. Confocal microscopy
 
-## **List of Practicals:**
+### **Practicals:**
 
 1. Demonstration and Troubleshooting of centrifuge
 1. Separation of Blood components using Centrifuge
@@ -42,14 +42,14 @@
 1. Comprehension of documentation and hospital set-up
 1. Open Ended Lab 1
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -57,7 +57,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

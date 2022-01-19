@@ -42,7 +42,7 @@
    1. Transcutaneous Electrical Stimulation
    1. Brain Computer Interface
    1. Assessment methods for neurorehabilitation
-###### **List of Practicals:**
+### **Practicals:**
 1. Angle measurements using electronic goniometer in rest and walking state
 1. Foot pressure measurement using force sensitive resistors (FSR)
 1. Modeling and simulation of biomechanics arm using Autocad
@@ -59,11 +59,11 @@
 1. Open ended Lab 3
 1. Open ended Lab 4
 1. Open ended Lab 5
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

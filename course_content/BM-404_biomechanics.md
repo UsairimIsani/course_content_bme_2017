@@ -51,7 +51,7 @@
    1. Hip, knee and ankle joint kinematics and kinetics
    1. Interpretation of gait data
 
-## **List of Practicals:**
+### **Practicals:**
 1. To determine the coordinates of the centre of gravity (COG) of a body using segmentation method.
 1. To determine the centre of Gravity Measurement using Reaction Board
 1. Volumetric analysis of irregular shaped body segments
@@ -69,14 +69,14 @@
 1. To design the human limbs on Solid works.
 1. To analyse the human limbs on ANSYS.
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -84,7 +84,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

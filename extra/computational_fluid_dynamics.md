@@ -63,7 +63,7 @@
    1. Human Airways
    1. A model human airway problem
    1. Inhalation studies
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing

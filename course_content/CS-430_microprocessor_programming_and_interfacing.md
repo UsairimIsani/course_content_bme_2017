@@ -44,7 +44,7 @@
    3. x86
    4. ARM
 
-## **List of Practicals:**
+### **Practicals:**
 1. To demonstrate the hardware of microcontrollers and microprocessor
 1. To use Proteus and Multisim simulating software for simulation
 1. To use Keilmicro vision software for assembly and c programming
@@ -60,14 +60,14 @@
 1. To program and perform serial communication (RS232)
 1. To program and perform parallel communication (RS232)
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -75,7 +75,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 - Labs
 - Open-Ended Labs
 

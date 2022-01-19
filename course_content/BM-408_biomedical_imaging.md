@@ -74,7 +74,7 @@
       1. Significance of PET
       1. Applications of PET
 
-## **List of Practicals:**
+### **Practicals:**
 1. MATLAB: Introduction to MATLAB and image processing toolbox
 1. Digital Image Fundamentals: Sampling and quantization, bits per pixel & shades, spatial resolution & image size, Zooming & shrinking images
 1. Basic Gray Level transformations: Image Negative, Log transform.
@@ -92,14 +92,14 @@
 1. Detection of discontinuities, Edge linking and boundary detection, Segmentation by thresholding
 1. Object recognition, classification and image compression
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -107,7 +107,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

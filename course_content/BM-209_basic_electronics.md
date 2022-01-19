@@ -48,7 +48,7 @@
    1. Crystal oscillators based on BJT and FET.
 
 
-## **List of Practicals:**
+### **Practicals:**
 
 1.	To observe the working of diode with forward and reverse bias.
 2. Plot the diode characteristic curve.
@@ -67,13 +67,13 @@
 2. Demonstrate the operation and determine the biasing parameter of Base Bias Circuit.
 2. Demonstrate the operation and determine the biasing parameter of Voltage Divider Bias Circuit.
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -81,7 +81,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text Book:**
 

@@ -52,7 +52,8 @@
    4. Minimization of the number of states. 
    5. Clocked Networks.
 9. **Introduction to Verilog HDL and VHDL Lab work:**
-## **List of Practicals:**
+
+### **Practicals:**
 
 1. Digital Logic Gates
 1. Simplification of Boolean Functions
@@ -70,11 +71,15 @@
 1. Parallel Adder
 1. Binary Multiplier
 1. Asynchronous Sequential Circuits
-## **Suggested Teaching Methodology:**
+
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -82,7 +87,8 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

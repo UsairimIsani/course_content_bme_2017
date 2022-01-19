@@ -1,6 +1,8 @@
-#### **Biofluid Mechanics and Bioheat Transfer**
+# **Biofluid Mechanics and Bioheat Transfer**
 
-### **Course Outline:**
+## **Course Outline:**
+
+### **Theory:**
 1. **Fluid Mechanics Basics**
    1. Term and Definition
    1. Scope of fluid mechanics
@@ -42,7 +44,8 @@
    1. Bioheat transfer
    1. Application of Magnetic Field in Hyperthermia
    1. Application of Ultrasonic wave
-###### **List of Practicals:**
+
+### **Practicals:**
 1	Density measurement of an unknown fluid.
 
 2. Viscosity measurement of a fluid.
@@ -60,11 +63,11 @@
 2. To model, measure and understand the complex density driven circulation associated with heat transfer through convection using Density Circulation Model.
 2. Open ended lab 1
 2. Open ended lab 2
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

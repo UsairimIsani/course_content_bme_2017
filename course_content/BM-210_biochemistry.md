@@ -19,7 +19,7 @@
 1. **Vitamins**
    1. folic acid, VitaminB12, Vitamin C, Vitamin D, Vitamin B1, Vitamin A, Vitamin E.
 
-## **List of Practicals:**
+### **Practicals:**
 1. How to prepare the Solution in Lab
 1. Determination of pH by pH meter and Litmus paper
 1. Demonstration the action of buffer
@@ -37,14 +37,14 @@
 1. Open ended lab II
 1. Open ended lab III
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -52,7 +52,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

@@ -31,11 +31,11 @@
    1. Treatment using rDNA technology -- gene therapy
    1. RNA interferenceing
    1. DNA profiling.
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

@@ -1,4 +1,4 @@
-# **(BM-108) - Computer Aided Engineering Drawing**
+# **(BM-108) - Computer-Aided Engineering Graphics**
 
 ## **Course Outline:**
 
@@ -27,20 +27,20 @@
    1. Dimensioning
    1. Plotting and printing
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing 
 - Lab tasks
 - Report Writing
   
-## **Suggested Assessment:**
-### **Theory (100%)**
+### **Suggested Assessment:**
+#### **Theory (100%)**
 - Sessional (20%)
 - Quiz (12%)
 - Assignment (8%)
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 - Labs
 - Open-Ended Labs
 

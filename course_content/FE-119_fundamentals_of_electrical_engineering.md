@@ -57,7 +57,7 @@
    8. Series and Parallel RLC Tuned Circuits.
    9. Definition of Quality Factor.
 
-## **List of Practicals:**
+### **Practicals:**
 1. To determine the voltage of series circuit
 1. To determine the voltage of parallel circuit.
 1. To determine the current through mesh analysis
@@ -75,14 +75,14 @@
 1. Determine Natural Response of an RLC circuit.
 1. To study source free RL circuit and determine its response mathematically and graphically
 
-## **Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing, Student Engagement
 - Quizzes and Assignments, uploading suggested resources on course website.
 - Semester Project
  
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -90,7 +90,10 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
+
+- Labs
+- Open-Ended Labs
 
 ## **Text and Reference Books:**
 

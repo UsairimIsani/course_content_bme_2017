@@ -1,3 +1,5 @@
+\newpage
+
 # **(BM-100) - Introduction to Biology For Pre-Engineering**
 
 ## **Course Outline:**
@@ -60,14 +62,14 @@
    1. Home gardening
    1. Role of microbes in human welfare
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

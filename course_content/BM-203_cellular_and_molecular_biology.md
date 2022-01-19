@@ -24,13 +24,14 @@
 1. Cellular reproduction
 1. Cell signalling
    
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
 
-### **Theory (100%)**
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

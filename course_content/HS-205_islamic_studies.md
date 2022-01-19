@@ -42,21 +42,23 @@
    2. b) in the world: 
       1. academic, intellectual, social & cultural impact of Islam on the world. 
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
 - Assignment (8%)
 - Midterm (30%)
 - Final Term (50%)
+
 ## **Text and Reference Books:**
+
 1. Hameed ullah Muhammad, “Emergence of Islam” , IRI, Islamabad
 1. Hameed ullah Muhammad, “Muslim Conduct of State”
 1. Hameed ullah Muhammad, ‘Introduction to Islam

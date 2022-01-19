@@ -1,4 +1,4 @@
-# **(BM-116) - Physiology-II**
+# **(BM-116) - Physiology - II**
 
 ## **Course Outline:**
 
@@ -32,7 +32,7 @@
    2. Hormonal functions in male and female
 
 
-## **List of Practicals:**
+### **Practicals:**
 1. Study of kymograph
 1. Recording of simple muscle twitch in Gastrocnemius sciatic nerve preparation
 1. Recording of the effect of two successive stimuli on the nerve muscle preparation
@@ -52,12 +52,14 @@
 4. Demonstration of the recording of an (extracellular) action potential from frog sciatic nerve (monophasic & biphasic) on oscillograph / oscilloscope
 5. Study of reflex movements in spine of frog; Effect of acid treatment, Effect Effects of electric shock & Effect of Strychnine
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
 
-### **Theory (100%)**
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -65,7 +67,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

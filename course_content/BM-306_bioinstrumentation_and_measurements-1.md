@@ -1,4 +1,4 @@
-# **(BM-306) - Bio-Instrumentation and Measurements - I**
+# **(BM-306) - Bioinstrumentation and Measurements - I**
 
 ## **Course Outline:**
 
@@ -36,7 +36,7 @@
    3. Calibration
    4. Maintenance and repair
 
-## **List of Practicals:**
+### **Practicals:**
 1. To study the principle of various Biomedical Transducer
 1. To understand methods and instruments for body temperature measurement and compare temperature sensor for selection on the basis of their properties
 1. To study the working of photo detectors/photo sensors and their application in biomedical
@@ -54,14 +54,14 @@
 1. To observe the principle and working of ventilator.
 1. Open ended lab 1
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -69,7 +69,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Recommended Text and Reference Books:**
 

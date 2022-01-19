@@ -40,11 +40,11 @@
    1. Implants for local drug delivery
    1. Topically applied devices for controlled release
    1. Ethical issues in Drug Delivery Systems
-### **Suggested Teaching Methodology:**
+#### **Suggested Teaching Methodology:**
 Lecturing
 
 Written Assignments Report Writing
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

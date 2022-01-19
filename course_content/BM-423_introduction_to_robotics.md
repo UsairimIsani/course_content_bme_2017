@@ -66,7 +66,7 @@
    1. Controls for medical robots
    1. Interfaces for medical robots
 
-## **List of Practicals:**
+### **Practicals:**
 1. Introduction to the Rhino
 1. The Tower of Hanoi
 1. Forward Kinematics
@@ -82,14 +82,14 @@
 13. Open ended lab 2
 13. Open ended lab 3
     
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -97,7 +97,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

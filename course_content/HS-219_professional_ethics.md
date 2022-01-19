@@ -33,20 +33,21 @@
    9. Honesty; 
    10. Truthfulness, trustworthiness, academic and research integrity
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
 - Assignment (8%)
 - Midterm (30%)
 - Final Term (50%)
+
 ## **Text and Reference Books:**
 
 1. Ferrell, O.C., and Fraedrich, John, Ethical Decision Making and Cases, New York: Houghton Mifflin.

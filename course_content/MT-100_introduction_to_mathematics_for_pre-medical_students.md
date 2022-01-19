@@ -1,7 +1,10 @@
 
-# **(MT-100) - Introduction To Mathematics (for pre-medical students)**
+# **(MT-100) - Introduction To Mathematics for Pre-Medical students**
 
-### **Course Outline:**
+## **Course Outline:**
+
+### **Theory:**
+
 1. **Algebra**
    1. Complex Numbers
    1. Properties of complex numbers
@@ -75,11 +78,14 @@
    1. Different forms of equation of a line
    1. Angle between two lines, distance of a point from a line
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -88,6 +94,7 @@
 - Final Term (50%)
 
 ## **Recommended Text and Reference Books:**
+
 1. FSC Maths Part I /II
 
 ___

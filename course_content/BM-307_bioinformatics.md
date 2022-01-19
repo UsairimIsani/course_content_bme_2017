@@ -41,14 +41,14 @@
    1. Modeling interaction in protein (Bond-length and bond-angle potentials)
    1. Molecular Dynamics Simulations
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

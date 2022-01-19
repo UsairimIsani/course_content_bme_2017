@@ -1,4 +1,4 @@
-# **(CS-107) - Introduction to Computing**
+# **(CS-107) - Computer Programming**
 
 ## **Course Outline:**
 ### **Theory:**
@@ -93,14 +93,14 @@
 1. Open Ended Lab I
 1. Open Ended Lab II
    
-## **Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 - Lecturing, Student Engagement
 - Quizzes and Assignments, uploading suggested resources on course website.
 - Semester Project
-- 
-## **Suggested Assessment:**
+  
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -108,7 +108,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 ## **Text and Reference Books:**
 

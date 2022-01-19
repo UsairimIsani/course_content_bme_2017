@@ -35,14 +35,14 @@
    1. Runge-Kutta methods.
    1. Solution of Partial Differential Equations by Finite Differences Methods (Explicit, Implicit and Crank-Niclson techniques) and ADI Method.
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)

@@ -24,7 +24,7 @@ Lecturing
 Written Assignments Presentation
 
 Case Studies
-### **Suggested Assessment:**
+#### **Suggested Assessment:**
 **Theory (100%)**
 
 Sessional (20%)

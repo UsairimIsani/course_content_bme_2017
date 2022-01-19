@@ -23,12 +23,15 @@
    2. Valuation challenges in Entrepreneurship; 
    3. Final harvest of a new venture.   
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
+
 - Lecturing
 - Guest lectures Project
 - Written Assignments Report Writing
-## **Suggested Assessment:**
-### **Theory (100%)**
+
+### **Suggested Assessment:**
+
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -37,6 +40,7 @@
 - Final Term (50%)
 
 ## **Recommended Text and Reference Books:**
+
 1. Introduction to Entrepreneurship by Donald F. Kuratko
 2. The Entrepreneurial Mindset by McGrath R. G. & McMillan I.
 

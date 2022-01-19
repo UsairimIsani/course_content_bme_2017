@@ -1,4 +1,4 @@
-# **(BM-451) - Bio-Signal Processing**
+# **(BM-451) - Biosignal Processing**
 
 ## **Course Outline:**
 
@@ -29,7 +29,9 @@
    1. PPG wave analysis
    1. Sound wave analysis
    1. EMG Processing
-## **List of Practicals:**
+
+### **Practicals:**
+
 1. Impulse and Step Responses
 1. Convolution and Correlation
 1. Z-transform, Pole-Zero Plot, Stability
@@ -47,14 +49,14 @@
 1. Open ended lab 1
 1. Open ended lab 2
 
-## **Suggested Teaching Methodology:**
+### **Suggested Teaching Methodology:**
 
 - Lecturing
 - Written Assignments Report Writing
 
-## **Suggested Assessment:**
+### **Suggested Assessment:**
 
-### **Theory (100%)**
+#### **Theory (100%)**
 
 - Sessional (20%)
 - Quiz (12%)
@@ -62,7 +64,7 @@
 - Midterm (30%)
 - Final Term (50%)
 
-### **Laboratory (100%)**
+#### **Laboratory (100%)**
 
 - Labs
 - Open-Ended Labs

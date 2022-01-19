@@ -47,7 +47,7 @@
 |   HS-105    | [Pakistan Studies](course_content/HS-105_pakistan_studies.md)                                                                 | 2            | A     | ✔️           |
 |   HS-202    | [Business Communication](course_content/HS-202_business_communication.md)                                                     | 3            | B+    | ✔️           |
 |   HS-205    | [Islamic Studies](course_content/HS-205_islamic_studies.md)                                                                   | 2            | B     | ✔️           |
-|   HS-200    | Community Service                                                                                                             | -            | -     |             |
 |   BM-413    | Biomedical Engineering Project                                                                                                | 6            | A-    |             |
 |   HSK-II    | Chinese Language                                                                                                              | -            | -     |             |
 |    HSK-I    | Chinese Language                                                                                                              | -            | -     |             |
+|   HS-200    | Community Service                                                                                                             | -            | -     |             |

@@ -17,5 +17,7 @@ pandoc --pdf-engine=xelatex --toc --toc-depth=2 -V geometry:margin=1in \
     course_content/* -o course_content_bme_2017.pdf
 pandoc  -V geometry:margin=1in README.md -o README.pdf
 
+pandoc -f markdown+emoji --variable mainfont="DejaVu Sans"  --pdf-engine=xelatex  -V geometry:margin=1in CONTENT.md -o CONTENT.pdf
+
 
 ```

@@ -4,63 +4,24 @@
 
 ### **Theory:**
 
-1. **Origins and Development of Telemedicine**
-   1. Overview of e-Health, Telehealth and Telemedicine
-   1. Technological & non-technological drivers
-   1. Benefits and limitations of telemedicine
-   1. Telemedicine in developed & underdeveloped nations
-1. **Technologies of Telemedicine Systems**
-   1. Types of information & transmission
-   1. Tele-Consultation and Telemonitoring
-   1. Types of Wireless Networks
-   1. Communication Protocols, shared variables and network streaming
-1. **Telemedicine Applications**
-   1. Tele-Radiology
-   1. Tele-Dermatology
-   1. Tele-Pathology
-   1. Tele-cardiology
-   1. Tele-Ophthalmology
-   1. Tele-Surgery
-   1. Tele-psychiatry
-   1. Tele-dentistry
-   1. Disaster Management
-1. **Development and Delivery of Telemedicine Services**
-   1. The Strategic Context of Service Development: USA, Australia, the UK and Malaysia
-   1. The Evaluation of Pilot Studies
-1. **Ethical and Legal Aspects of Telemedicine**
-   1. Confidentiality, Patient Rights and Consent
-   1. Data Protection and Security
-   1. Telemedical Malpractice
-   1. Intellectual Property Rights
-1. **Future Trends in Healthcare Technology**
-   1. Prognostics in Telemedicine
-   1. The Aging Population: Home Care for the Elderly
-   1. Smart Home Assistive Technologies
-   1. Clothing Technology and Healthcare
-   1. Haptic Sensing for Practitioners
-1. **Introduction to Information Systems**
-   1. Basics of Information Systems
-   1. Rudiments of Healthcare Information Management System
-   1. HIS, Now and future
-1. **Data standards, Handling and Processing**
-   1. Data representation
-   1. Storage Tiers
-   1. Data Structure
-   1. Flow Charts and Work Process Flow Diagrams
-   1. Electronic Health Records (HERs)
-   1. Pros & Cons of Paper medical records
-   1. Functions and Benefits of EHRs
-1. **Subsystems of HIS**
-   1. Health Information Systems in Clinical Settings
-   1. Laboratory Information Systems
-   1. Radiology Information Systems
-   1. Clinical Decision Support Systems (CDSS)
-   1. Healthcare Financial Management.
-1. **Network and Communication**
-   1. Medical device networking
-   1. DICOM
-   1. HL7 standards
-   2. HIMSS
+1. **Introduction to Digital Health**
+   1. Developing the concept for Digital Health
+1. **Models of Telemedicine**
+   1. How telemedicine models work in different settings
+1. **Networks & Systems (Telemedicine)**
+   1. Importance of Networks & Systems in Telemedicine
+1. **Raw Data to Meaningful information**
+   1. How data changes into information for HCPs
+1. **Setting up Venues for Telemedicine**
+   1. Needs for establish Telemedicine systems.
+1. **Decision Support systems**
+1. **Ethics & laws for Telemedicine**
+1. **How to develop Telemedicine portal**
+   1. Understating the how to choose the best technology.
+1. **Live Telemedicine Demo**
+   1. Practical sessions
+1. **Digital Health Mobile Application Demo**
+   1. Showing how mobile application works
 
 ### **Suggested Teaching Methodology:**
 

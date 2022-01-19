@@ -1,7 +1,9 @@
 # **(EE-214) - Circuit Theory**
 
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Text and Reference Books:**
    1. Differential and integral forms of circuit equations.
    2. Initial voltage on a capacitor.
@@ -38,9 +40,12 @@
    8. Restrictions on pole and zero transfer function, magnitude and phase.
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -50,6 +55,7 @@
 - Final Term (50%)
 
 ## **Text and Reference Books:**
+
 1. Engineering Circuit Analysis by William Hayt, 7th Edition, 2006. ISBN: 978- 0073263182
 2. Fundamentals of Electric Circuits by Charles K.Alexander, Matthew N. O. Sadiku. 4th Edition, 2008.ISBN 978-0077263195
 

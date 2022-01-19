@@ -2,6 +2,7 @@
 
 ## **Course Outline:**
 ### **Theory:**
+
 1. **Quranic Verses:** 
    1. Tauheed: Al-Ambiya – 22, Al – Baqarah - 163&164. 
    2. Prophet hood: Al – Imran – 79, Al – Huda – 7, Al- Maida0h-3. 
@@ -42,9 +43,12 @@
       1. academic, intellectual, social & cultural impact of Islam on the world. 
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

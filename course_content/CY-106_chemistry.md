@@ -1,8 +1,9 @@
 # **(CY-106) - Chemistry**
 
-
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Introduction**: 
    1. Wave properties of electrons and matter.
    2. Quantum theory of matter at atomic level, atomic structure. 
@@ -34,7 +35,9 @@
 3. acid-base titrations.
 4. Redox’s titrations.
 5. preparation of Acidic and Basic buffer solutions and mixture analysis.
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

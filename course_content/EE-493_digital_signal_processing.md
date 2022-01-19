@@ -1,6 +1,9 @@
 # **(EE-493) - Digital Signal Processing** 
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Introduction**
    1. Overview of Discrete-time Signals and Systems.
    2. Sampling
@@ -53,9 +56,12 @@
 
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -65,6 +71,7 @@
 - Final Term (50%)
 
 ### **Laboratory (100%)**
+
 - Labs
 - Open-Ended Labs
 

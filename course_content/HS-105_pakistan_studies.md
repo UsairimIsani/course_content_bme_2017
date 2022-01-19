@@ -3,6 +3,7 @@
 ## **Course Outline:**
 
 ### **Theory:**
+
 1. **Historical and Ideological perspective of Pakistan Movement:** 
    1. Two Nation Theory, Definition; 
    2. Claim of Muslims of being a separate nation from Hindus, based upon cultural diversity, 
@@ -52,9 +53,12 @@
    10. Pakistan’s response to Human Rights at national and international levels, Constitutional Provision
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -63,6 +67,7 @@
 - Midterm (30%)
 - Final Term (50%)
 ## **Recommended Text and Reference Books:**
+
 1. Burki, Shahid Javed. State & Society in Pakistan, The Macmillan Press Ltd 1980.
 1. Akbar, S. Zaidi. Issue in Pakistan’s Economy. Karachi: Oxford University Press, 2000.
 1. S.M. Burke and Lawrence Ziring. Pakistan’s Foreign policy: A Historical analysis. Karachi: Oxford University Press, 1993.

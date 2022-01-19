@@ -1,6 +1,9 @@
 # **(EF-305) - Engineering Economic and Management**
+
 ## **Course Outline**
+
 ### **Theory**
+
 1. **Introduction:** 
    1. Basic Concepts and principles of Economics. 
    2. Micro- and Macroeconomic theory, 
@@ -71,9 +74,12 @@
    8.  Line of balance
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -83,6 +89,7 @@
 - Final Term (50%)
 
 ## **Recommended Text and Reference Books:**
+
 1. Buchbinder Sharon, Introduction to Healthcare Management Latest ed.
 2. Alexander Kolker, Management Engineering for Effective Healthcare Delivery: Principles and Applications, 2012
 3. Kaluzny, Warner, Warren, Zelman, Management of Health Services

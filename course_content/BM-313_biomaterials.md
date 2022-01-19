@@ -31,28 +31,28 @@
    1. Introduction to finite element analysis.
 1. **Biomaterials Degradation in the Biological Environment**
    1. Review of clinical cases of implant failure
-1. Mechanisms of metallic corrosion
-1. Fatigue failure
-1. Wear
-1. Polymer degradation
-1. Ceramic degradation
-1. **Biocompatibility**
+   2. Mechanisms of metallic corrosion
+   3. Fatigue failure
+   4. Wear
+   5. Polymer degradation
+   6. Ceramic degradation
+2. **Biocompatibility**
    1. Biological responses to biomaterials
-   1. Toxicity and hypersensitivity
-   1. Blood-material interactions
-   1. Tumours associated with biomaterials and implants
-   1. Biofilms
-1. **Special Considerations for Implants, Devices and Biomaterials**
+   2. Toxicity and hypersensitivity
+   3. Blood-material interactions
+   4. Tumours associated with biomaterials and implants
+   5. Biofilms
+3. **Special Considerations for Implants, Devices and Biomaterials**
    1. Sterility and patient safety
-   1. Device Failure Mode Analysis/Risk Analysis
-   1. Voluntary consensus standards and regulatory compliance
-   1. Legal aspects of biomaterials, clinical trials and case studies in regulations
-1. **Tissue Engineering, gene therapy using viral vector materials for scaffolding.**
-1. **Biomaterial implantation and Acute inflammation**
-1. **Wound healing and the presence of biomaterials**
-1. **Immune response to biomaterials**
-1. **Biomaterials and thrombosis**
-1. **Infection, tumorogenesis and calcification of biomaterials**
+   2. Device Failure Mode Analysis/Risk Analysis
+   3. Voluntary consensus standards and regulatory compliance
+   4. Legal aspects of biomaterials, clinical trials and case studies in regulations
+4. **Tissue Engineering, gene therapy using viral vector materials for scaffolding.**
+5. **Biomaterial implantation and Acute inflammation**
+6. **Wound healing and the presence of biomaterials**
+7. **Immune response to biomaterials**
+8. **Biomaterials and thrombosis**
+9. **Infection, tumorogenesis and calcification of biomaterials**
 
 ## **List of Practicals:**
 
@@ -93,7 +93,7 @@
 ## **Recommended Texts and Reference Books:**
 
 1. Buddy D. Ratner, et al, Biomaterials Science, Second Edition: An Introduction to Materials in Medicine
-1. Handbook of Biomaterial Properties (*Second Edition) edited by William Murphy, Jonathan Black, Garth Hastings.*
+1. Handbook of Biomaterial Properties (*Second Edition) edited by William Murphy, Jonathan Black, Garth Hastings.
 1. Michael N. Helmus (Editor), Biomaterials in the Design and Reliability of Medical Devices
 1. David Hill, Design Engineering of Biomaterials for Medical Devices
 1. Jos Vander Sloten (Editor), Computer Technology in Biomaterials Science and Engineering (Biomaterials Science & Engineering)

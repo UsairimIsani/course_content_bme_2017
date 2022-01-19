@@ -1,4 +1,4 @@
-#### **(BM-425) - Telemedicine**
+# **(BM-425) - Telemedicine**
 
 ## **Course Outline:**
 

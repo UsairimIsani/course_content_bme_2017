@@ -1,5 +1,7 @@
 # **(FE-119) - Fundamentals of Electrical Engineering **
+
 ## **Course Outline:**
+
 ### **Theory:**
 
 1. **Electrical Elements and Circuits:**
@@ -54,7 +56,8 @@
    7. Tuned Circuits.
    8. Series and Parallel RLC Tuned Circuits.
    9. Definition of Quality Factor.
-###### **List of Practicals:**
+
+## **List of Practicals:**
 1. To determine the voltage of series circuit
 1. To determine the voltage of parallel circuit.
 1. To determine the current through mesh analysis
@@ -78,6 +81,7 @@
 - Semester Project
  
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

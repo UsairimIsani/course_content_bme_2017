@@ -1,6 +1,9 @@
 # **(BM-306) - Bio-Instrumentation and Measurements - I**
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Introduction to measurements**
    1. Precision
    1. Resolution
@@ -32,6 +35,7 @@
    2. Performance measurement
    3. Calibration
    4. Maintenance and repair
+
 ## **List of Practicals:**
 1. To study the principle of various Biomedical Transducer
 1. To understand methods and instruments for body temperature measurement and compare temperature sensor for selection on the basis of their properties
@@ -49,10 +53,14 @@
 1. To practice the safety aspect of ultrasound machine using standard procedure
 1. To observe the principle and working of ventilator.
 1. Open ended lab 1
+
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)

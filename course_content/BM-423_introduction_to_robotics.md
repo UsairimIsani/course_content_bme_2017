@@ -1,4 +1,4 @@
-#### **(BM-423) - Introduction to Robotics**
+# **(BM-423) - Introduction to Robotics**
 ## **Course Outline:**
 ### **Theory:**
 

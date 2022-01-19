@@ -1,6 +1,9 @@
 # **(BM-208) - Biomedical Electronics**
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Operational Amplifiers**
    1. Analysis of OP-AMP action
    1. OP-AMP specifications

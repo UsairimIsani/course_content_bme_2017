@@ -1,9 +1,9 @@
 # **(HS-104) - Functional English**
-####
-
-
 
 ## **Course Outline:**
+
+### **Theory:**
+
 1. **Listening:**
    1. Types of Listening (content, critical, selective, active, reflective, empathic etc.).
    2. Problems in listening and coping strategies.
@@ -38,9 +38,12 @@
    6. Changing your stance / point of view in the course of a discussion, Summing up.
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -50,6 +53,7 @@
 - Final Term (50%)
 
 ## **Text and Reference Books:**
+
 1. Patterns of College Writing (4th Edition) by Laurie G. Kirszner and Stephen R. Mandell. St. Martin’s Press
 1. The Mercury Reader. A Custom Publication. Compiled by Norther Illinois University. General Editiors: Janice Neulib; Kathleen Shine Cain; Stephen Ruffus and Maurice Scharton.
 1. Writing. Advanced by Ron White. Oxford Supplementary Skills. Third Impression 1992. ISBN 0 19 435407 3 (particularly suitable for discursive, descriptive, argumentative and report writing).

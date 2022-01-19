@@ -1,5 +1,8 @@
 # **(BM-310) - Control Systems for Biomedical Engineers**
-### **Course Outline:**
+## **Course Outline:**
+
+### **Theory:**
+
 1. **Introduction**
    1. Introduction to control systems
    1. Open loop and close loop control systems.

@@ -1,6 +1,9 @@
 # **(BM-210) - Biochemistry**
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Introduction to Biochemistry**
    1. Colloidal state, buffer, pH, significance of pH Henderson equation, surface tension, viscosity, osmosis, diffusion, Biological Membrane, active Transport, Chemi-osmotic theory-passive transport concept of chromatographic techniques (TLC, paper chromatography, GLC column chromatography etc.) carbohydrates, amino acids, nucleic acids, proteins, vitamins, enzymes, hormones & signaling agents.
 1. **Metabolism of Carbohydrates, Lipids and Proteins**

@@ -47,6 +47,7 @@
    10. Rotation.
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
 

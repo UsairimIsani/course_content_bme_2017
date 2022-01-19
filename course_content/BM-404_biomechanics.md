@@ -1,6 +1,9 @@
 # **(BM-404) - Biomechanics**
+
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Introduction**
    1. Definition and perspective
    1. Review of statics

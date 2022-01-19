@@ -1,8 +1,9 @@
-#### **(BM-408) - Biomedical Imaging**
-
+# **(BM-408) - Biomedical Imaging**
 
 ## **Course Outline:**
+
 ### **Theory:**
+
 1. **Digital Image Fundamental**
    1. Image file formats
    1. Elements of Visual Perception
@@ -72,6 +73,7 @@
       1. PET Image formation
       1. Significance of PET
       1. Applications of PET
+
 ## **List of Practicals:**
 1. MATLAB: Introduction to MATLAB and image processing toolbox
 1. Digital Image Fundamentals: Sampling and quantization, bits per pixel & shades, spatial resolution & image size, Zooming & shrinking images

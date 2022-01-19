@@ -1,6 +1,9 @@
 # **(HS-202) - Business Communication**
 
-### **Course Outline:**
+## **Course Outline:**
+
+### **Theory:**
+
 1. **Essay Writing and 7C’s of Communication**
    1. Kinds of Essays
    1. Ways to Develop a Proper Beginning, Middle and Ending of Essay
@@ -64,9 +67,12 @@
    1. Project Work on Power Point Presentations
 
 ## **Suggested Teaching Methodology:**
+
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
+
 ### **Theory (100%)**
 
 - Sessional (20%)
@@ -76,6 +82,7 @@
 - Final Term (50%)
 
 ## **Recommended Text and Reference Books:**
+
 1. Exploring The World Of English, Sadat Ali Shah
 1. High School English Grammar & Composition P. C. Wren & H. Martin
 1. Practical English Grammar by A. J. Thomson and A. V. Martinet. Exercises Third edition. Oxford University  Press 1986. ISBN 0 19 431350 6.

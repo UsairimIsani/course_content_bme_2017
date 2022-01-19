@@ -1,5 +1,7 @@
 # **(BM-451) - Bio-Signal Processing**
+
 ## **Course Outline:**
+
 ### **Theory:**
 1. **Introduction to Digital Signal Processing**
    1. Analog-to-Digital& Digital-to-Analog Conversion

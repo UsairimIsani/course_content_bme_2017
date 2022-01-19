@@ -2,6 +2,7 @@
 
 
 ## **Course Outline:**
+
 ### **Theory:**
 
 1. **Error analysis**
@@ -38,6 +39,7 @@
 
 - Lecturing
 - Written Assignments Report Writing
+
 ## **Suggested Assessment:**
 
 ### **Theory (100%)**
